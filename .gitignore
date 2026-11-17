@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data files (raw downloads, large files)
+data/*.json
+data/*.csv
+
+# Environment
+venv/
+.venv/
+
+# API keys and secrets
+*.env
+secrets.py
