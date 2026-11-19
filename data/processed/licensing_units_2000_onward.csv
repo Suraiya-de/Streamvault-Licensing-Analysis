@@ -1,29 +1,26 @@
-licensing_type,licensing_unit_id,titles,film_count,total_budget,total_revenue,total_profit,median_film_roi_pct,portfolio_roi_pct,revenue_multiple
-Franchise bundle,collection_10.0,Star Wars: Episode II - Attack of the Clones | Star Wars: Episode III - Revenge of the Sith,2,233000000,1499398328,1266398328,546.6888313569322,543.5185957081545,6.435185957081545
-Franchise bundle,collection_10194.0,Toy Story 3 | Toy Story 4,2,375000000,2141157495,1766157495,473.64085210714285,470.975332,5.70975332
-Franchise bundle,collection_119.0,The Lord of the Rings: The Fellowship of the Ring | The Lord of the Rings: The Two Towers | The Lord of the Rings: The Return of the King,3,266000000,2916544743,2650544743,1072.5156962025317,996.4453921052632,10.964453921052632
-Franchise bundle,collection_121938.0,The Hobbit: An Unexpected Journey | The Hobbit: The Desolation of Smaug | The Hobbit: The Battle of the Five Armies,3,750000000,2935523356,2185523356,283.36,291.40311413333336,3.9140311413333335
-Franchise bundle,collection_1241.0,Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of the Phoenix | Harry Potter and the Half-Blood Prince | Harry Potter and the Deathly Hallows: Part 1 | Harry Potter and the Deathly Hallows: Part 2,8,1280000000,7759777709,6479777709,516.5085616410256,506.232633515625,6.06232633515625
-Franchise bundle,collection_131292.0,Iron Man | Iron Man 2 | Iron Man 3,3,540000000,2424684758,1884684758,317.98158714285717,349.0156959259259,4.490156959259259
-Franchise bundle,collection_1570.0,Live Free or Die Hard,1,110000000,383531464,273531464,248.6649672727273,248.6649672727273,3.486649672727273
-Franchise bundle,collection_2150.0,Shrek | Shrek 2 | Shrek the Third | Shrek Forever After,4,535000000,2983130036,2448130036,463.44451377083334,457.5943992523365,5.5759439925233645
-Franchise bundle,collection_2344.0,The Matrix Reloaded | The Matrix Revolutions,2,300000000,1163587912,863587912,287.86263733333334,287.86263733333334,3.8786263733333333
-Franchise bundle,collection_263.0,The Dark Knight | Batman Begins | The Dark Knight Rises,3,585000000,2463740489,1878740489,332.4165148,321.15222034188037,4.211522203418803
-Franchise bundle,collection_2883.0,Kill Bill: Vol. 1 | Kill Bill: Vol. 2,2,60000000,333065537,273065537,455.10922833333336,455.10922833333336,5.551092283333333
-Franchise bundle,collection_295.0,Pirates of the Caribbean: The Curse of the Black Pearl | Pirates of the Caribbean: Dead Man's Chest | Pirates of the Caribbean: At World's End | Pirates of the Caribbean: On Stranger Tides | Pirates of the Caribbean: Dead Men Tell No Tales,5,1249000000,4525525744,3276525744,246.05317304347824,262.33192506004804,3.6233192506004803
-Franchise bundle,collection_304.0,Ocean's Eleven | Ocean's Twelve | Ocean's Thirteen,3,280000000,1124774054,844774054,266.25014588235297,301.7050192857143,4.017050192857143
-Franchise bundle,collection_31562.0,The Bourne Identity | The Bourne Supremacy | The Bourne Ultimatum,3,205000000,945358579,740358579,284.666956,361.15052634146343,4.611505263414634
-Franchise bundle,collection_328.0,Jurassic Park III,1,93000000,368780809,275780809,296.53850430107525,296.53850430107525,3.9653850430107527
-Franchise bundle,collection_528.0,Terminator 3: Rise of the Machines | Terminator Salvation,2,400000000,806353001,406353001,101.58825025,101.58825025,2.0158825025
-Franchise bundle,collection_8354.0,Ice Age | Ice Age: The Meltdown | Ice Age: Dawn of the Dinosaurs,3,229000000,1930942709,1701942709,726.248445,743.2064231441049,8.432064231441048
-Franchise bundle,collection_84.0,Indiana Jones and the Kingdom of the Crystal Skull,1,185000000,786636033,601636033,325.2086664864865,325.2086664864865,4.252086664864865
-Franchise bundle,collection_86311.0,The Avengers | Avengers: Age of Ultron | Avengers: Endgame | Avengers: Infinity War,4,1111000000,7919284026,6808284026,587.2545174848485,612.8068430243025,7.128068430243024
-Franchise bundle,collection_87359.0,Mission: Impossible II | Mission: Impossible III | Mission: Impossible - Ghost Protocol | Mission: Impossible - Rogue Nation,4,570000000,2322297621,1752297621,346.1274552,307.42063526315786,4.074206352631579
-Standalone film,movie_10681,WALL·E,1,180000000,521311860,341311860,189.6177,189.6177,2.896177
-Standalone film,movie_1124,The Prestige,1,40000000,109676311,69676311,174.1907775,174.1907775,2.741907775
-Standalone film,movie_129,Spirited Away,1,19000000,274925095,255925095,1346.9741842105263,1346.9741842105263,14.469741842105263
-Standalone film,movie_1422,The Departed,1,90000000,291465000,201465000,223.85000000000002,223.85000000000002,3.2385
-Standalone film,movie_157336,Interstellar,1,165000000,746606706,581606706,352.48891272727275,352.48891272727275,4.524889127272727
-Standalone film,movie_27205,Inception,1,160000000,839030630,679030630,424.39414375,424.39414375,5.2439414375
-Standalone film,movie_641,Requiem for a Dream,1,4500000,7390108,2890108,64.22462222222222,64.22462222222222,1.6422462222222223
-Standalone film,movie_77,Memento,1,9000000,40060108,31060108,345.11231111111107,345.11231111111107,4.451123111111111
+licensing_type,licensing_unit_id,titles,film_count,total_budget,total_revenue,total_profit,median_film_revenue,median_film_budget,gross_revenue_less_budget,gross_revenue_to_budget_pct,revenue_multiple
+Franchise bundle,collection_10.0,Star Wars: Episode II - Attack of the Clones | Star Wars: Episode III - Revenge of the Sith,2,233000000,1499398328,1266398328,749699164.0,116500000.0,1266398328,543.5185957081545,6.435185957081545
+Franchise bundle,collection_10194.0,Toy Story 3 | Toy Story 4,2,375000000,2141157495,1766157495,1070578747.5,187500000.0,1766157495,470.975332,5.70975332
+Franchise bundle,collection_119.0,The Lord of the Rings: The Fellowship of the Ring | The Lord of the Rings: The Two Towers | The Lord of the Rings: The Return of the King,3,266000000,2916544743,2650544743,926287400.0,93000000.0,2650544743,996.4453921052632,10.964453921052632
+Franchise bundle,collection_121938.0,The Hobbit: An Unexpected Journey | The Hobbit: The Desolation of Smaug | The Hobbit: The Battle of the Five Armies,3,750000000,2935523356,2185523356,958400000.0,250000000.0,2185523356,291.40311413333336,3.9140311413333335
+Franchise bundle,collection_1241.0,Harry Potter and the Philosopher's Stone | Harry Potter and the Chamber of Secrets | Harry Potter and the Prisoner of Azkaban | Harry Potter and the Goblet of Fire | Harry Potter and the Order of the Phoenix | Harry Potter and the Half-Blood Prince | Harry Potter and the Deathly Hallows: Part 1 | Harry Potter and the Deathly Hallows: Part 2,8,1280000000,7759777709,6479777709,936085967.5,140000000.0,6479777709,506.232633515625,6.06232633515625
+Franchise bundle,collection_131292.0,Iron Man | Iron Man 2 | Iron Man 3,3,540000000,2424684758,1884684758,623933331.0,200000000.0,1884684758,349.0156959259259,4.490156959259259
+Franchise bundle,collection_2150.0,Shrek | Shrek 2 | Shrek the Third | Shrek Forever After,4,535000000,2983130036,2448130036,780455527.0,155000000.0,2448130036,457.5943992523365,5.5759439925233645
+Franchise bundle,collection_2344.0,The Matrix Reloaded | The Matrix Revolutions,2,300000000,1163587912,863587912,581793956.0,150000000.0,863587912,287.86263733333334,3.8786263733333333
+Franchise bundle,collection_263.0,The Dark Knight | Batman Begins | The Dark Knight Rises,3,585000000,2463740489,1878740489,1008480529.0,185000000.0,1878740489,321.15222034188037,4.211522203418803
+Franchise bundle,collection_2883.0,Kill Bill: Vol. 1 | Kill Bill: Vol. 2,2,60000000,333065537,273065537,166532768.5,30000000.0,273065537,455.10922833333336,5.551092283333333
+Franchise bundle,collection_295.0,Pirates of the Caribbean: The Curse of the Black Pearl | Pirates of the Caribbean: Dead Man's Chest | Pirates of the Caribbean: At World's End | Pirates of the Caribbean: On Stranger Tides | Pirates of the Caribbean: Dead Men Tell No Tales,5,1249000000,4525525744,3276525744,961691209.0,230000000.0,3276525744,262.33192506004804,3.6233192506004803
+Franchise bundle,collection_304.0,Ocean's Eleven | Ocean's Twelve | Ocean's Thirteen,3,280000000,1124774054,844774054,362744280.0,85000000.0,844774054,301.7050192857143,4.017050192857143
+Franchise bundle,collection_31562.0,The Bourne Identity | The Bourne Supremacy | The Bourne Ultimatum,3,205000000,945358579,740358579,288500217.0,70000000.0,740358579,361.15052634146343,4.611505263414634
+Franchise bundle,collection_528.0,Terminator 3: Rise of the Machines | Terminator Salvation,2,400000000,806353001,406353001,403176500.5,200000000.0,406353001,101.58825025,2.0158825025
+Franchise bundle,collection_8354.0,Ice Age | Ice Age: The Meltdown | Ice Age: Dawn of the Dinosaurs,3,229000000,1930942709,1701942709,660998756.0,80000000.0,1701942709,743.2064231441049,8.432064231441048
+Franchise bundle,collection_86311.0,The Avengers | Avengers: Age of Ultron | Avengers: Endgame | Avengers: Infinity War,4,1111000000,7919284026,6808284026,1785615277.0,267500000.0,6808284026,612.8068430243025,7.128068430243024
+Franchise bundle,collection_87359.0,Mission: Impossible II | Mission: Impossible III | Mission: Impossible - Ghost Protocol | Mission: Impossible - Rogue Nation,4,570000000,2322297621,1752297621,614552372.0,147500000.0,1752297621,307.42063526315786,4.074206352631579
+Standalone film,movie_10681,WALL·E,1,180000000,521311860,341311860,521311860.0,180000000.0,341311860,189.6177,2.896177
+Standalone film,movie_1124,The Prestige,1,40000000,109676311,69676311,109676311.0,40000000.0,69676311,174.1907775,2.741907775
+Standalone film,movie_129,Spirited Away,1,19000000,274925095,255925095,274925095.0,19000000.0,255925095,1346.9741842105263,14.469741842105263
+Standalone film,movie_1422,The Departed,1,90000000,291465000,201465000,291465000.0,90000000.0,201465000,223.85000000000002,3.2385
+Standalone film,movie_157336,Interstellar,1,165000000,746606706,581606706,746606706.0,165000000.0,581606706,352.48891272727275,4.524889127272727
+Standalone film,movie_27205,Inception,1,160000000,839030630,679030630,839030630.0,160000000.0,679030630,424.39414375,5.2439414375
+Standalone film,movie_641,Requiem for a Dream,1,4500000,7390108,2890108,7390108.0,4500000.0,2890108,64.22462222222222,1.6422462222222223
+Standalone film,movie_77,Memento,1,9000000,40060108,31060108,40060108.0,9000000.0,31060108,345.11231111111107,4.451123111111111
