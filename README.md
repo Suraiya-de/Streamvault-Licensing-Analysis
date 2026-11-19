@@ -136,6 +136,17 @@ Data availability, missing financial information, historical reporting differenc
 
 ## Project Status
 
-This repository is under active development. The data investigation, acquisition pipeline, validation, analysis and final client documentation are being built incrementally.
+### Current Progress: Initial Data Investigation
 
-The final recommendation will be supported by documented evidence, reproducible calculations and clearly stated limitations.
+Completed the initial investigation of the candidate movie ID dataset.
+
+- Loaded and preserved the original 127 candidate rows.
+- Identified 1 blank entry and 6 duplicate occurrences.
+- Identified 1 negative ID, 1 IMDb-style identifier and 1 unexpected text value.
+- Reconciled all 127 original rows.
+- Created a record-level investigation table.
+- Documented preliminary findings in `docs/findings.md`.
+
+**Next:** Validate candidate identifiers against TMDb and begin designing the data acquisition process.
+
+TMDb existence and metadata completeness have not yet been verified.
