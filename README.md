@@ -187,3 +187,23 @@ The acquisition process includes cache validation, request timeouts, retry handl
 The five HTTP 404 responses are treated as unavailable records rather than retried indefinitely. Their IDs and source-row positions remain documented in the reconciliation file.
 
 
+## Preliminary Licensing Analysis
+
+The initial licensing analysis was implemented in `notebooks/03_streamvault_analysis.ipynb`.
+
+It currently:
+- Calculates film-level gross revenue less production budget.
+- Calculates revenue-to-budget ratios.
+- Groups multi-film collections into franchise licensing units.
+- Compares franchise bundles with standalone films across all release years and from 2000 onward.
+- Exports preliminary comparison tables and financial metrics.
+
+### Preliminary outputs
+
+- `data/processed/movie_financial_metrics.csv`
+- `data/processed/licensing_comparison.csv`
+- `data/processed/licensing_units_all_years.csv`
+- `data/processed/licensing_units_2000_onward.csv`
+
+**Analysis status:** Preliminary. The classification rules, treatment of single-film collection candidates, financial metric interpretation, and inflation comparability are subject to further validation before the final licensing recommendation.
+
