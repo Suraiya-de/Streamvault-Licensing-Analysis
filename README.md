@@ -163,4 +163,27 @@ Established a successful connection to the TMDb API and developed the initial da
 
 The cache-aware request function and its initial validation tests are working. Request throttling, retry handling, failure logging and interruption recovery are still to be implemented.
 
-**Next:** Develop reliable API request handling, including rate limiting, exponential backoff, HTTP error handling and failure tracking.
+
+### Bulk acquisition and reconciliation
+
+The bulk acquisition process successfully processed all 127 original candidate rows.
+
+- 117 unique TMDb IDs were submitted for acquisition, including the IMDb ID resolved through TMDb.
+- 112 unique movie records were successfully acquired and cached.
+- 5 IDs returned HTTP 404 responses and were recorded as unavailable.
+- 2 source IDs were classified as invalid.
+- 1 source row was blank.
+- 7 source rows were duplicates after ID resolution.
+
+The reconciliation preserves the original source-row lineage and records the outcome for each candidate. Duplicate IDs are fetched only once, while their original source rows remain represented.
+
+The acquisition process includes cache validation, request timeouts, retry handling for transient failures, HTTP 429 handling using Retry-After, and a fetch log.
+
+**Outputs:**
+- `data/processed/id_reconciliation.csv`
+- `data/raw/_fetch_log.csv`
+- `data/raw/movie/` (locally cached movie responses; excluded from Git)
+
+The five HTTP 404 responses are treated as unavailable records rather than retried indefinitely. Their IDs and source-row positions remain documented in the reconciliation file.
+
+
