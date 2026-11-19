@@ -149,18 +149,18 @@ Completed the initial investigation of the candidate movie ID dataset.
 
 ### In Progress: TMDb Data Acquisition
 
-Established a successful connection to the TMDb API and began developing the data acquisition process.
+Established a successful connection to the TMDb API and developed the initial data acquisition and caching components.
 
 - Configured authentication using a locally stored environment variable.
-- Successfully retrieved movie metadata and credits using a test movie ID.
-- Explored the structure of the API response, including nested cast and crew records.
-- Implemented an initial JSON cache with UTC fetch timestamps.
-- Implemented atomic cache writing and basic cache reading.
-- Tested cache creation, readback and cache-miss behaviour.
-- Updated `.gitignore` to exclude generated movie cache files.
+- Successfully retrieved movie metadata and credits from TMDb.
+- Explored the API response structure, including nested cast and crew records.
+- Implemented atomic JSON cache writing with UTC fetch timestamps.
+- Implemented cache reading and structural validation.
+- Integrated cache checks with API requests to avoid unnecessary downloads.
+- Verified cache hits, cache misses and successful retrieval of uncached movies.
+- Tested handling of corrupted JSON and incomplete cache records.
+- Configured `.gitignore` to exclude generated movie cache files.
 
-The cache foundation has been tested independently. The complete cache-aware acquisition workflow is not yet implemented.
+The cache-aware request function and its initial validation tests are working. Request throttling, retry handling, failure logging and interruption recovery are still to be implemented.
 
-**Next:** Integrate caching with API requests, then implement request throttling, retry handling, failure logging and interruption recovery.
-
-TMDb existence and metadata completeness for the full candidate list have not yet been verified.
+**Next:** Develop reliable API request handling, including rate limiting, exponential backoff, HTTP error handling and failure tracking.
