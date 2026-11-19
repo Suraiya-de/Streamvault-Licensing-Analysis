@@ -207,3 +207,67 @@ It currently:
 
 **Analysis status:** Preliminary. The classification rules, treatment of single-film collection candidates, financial metric interpretation, and inflation comparability are subject to further validation before the final licensing recommendation.
 
+
+
+## Final Licensing Analysis
+
+### Objective
+Evaluate franchise bundles against standalone films to identify content candidates for further due diligence in relation to the proposed $14 million licensing decision.
+
+### Dataset and coverage
+- 112 successfully retrieved, unique movie records.
+- Source-row reconciliation and acquisition failures documented.
+- Financial comparisons conducted for all release years and separately for films released from 2000 onward.
+- Director and lead-actor performance explored using TMDb credits.
+
+### Key financial findings
+
+| Period | Licensing type | Weighted gross return | Median unit return |
+|---|---|---:|---:|
+| All years | Franchise bundles | 452.16% | 455.11% |
+| All years | Standalone films | 384.95% | 284.48% |
+| 2000 onward | Franchise bundles | 415.11% | 361.15% |
+| 2000 onward | Standalone films | 324.04% | 284.48% |
+
+The primary comparison favours franchise bundles in both periods. A sensitivity analysis treating single-film collection candidates as standalone licensing units slightly changes the all-years weighted comparison, so the classification assumption is documented in the decision notes.
+
+### Recommended screening shortlist
+
+**Franchise bundles**
+1. The Lord of the Rings
+2. Ice Age
+3. The Avengers
+
+**Strict standalone films — all years**
+1. The Good, the Bad and the Ugly
+2. Pulp Fiction
+3. Schindler's List
+4. Spirited Away
+5. Forrest Gump
+
+**Strict standalone films — 2000 onward**
+1. Spirited Away
+2. Inception
+3. Interstellar
+4. Memento
+5. The Departed
+
+### Main limitations
+- Financial figures are third-party reported nominal values and have not been adjusted for inflation.
+- Gross revenue less production budget is not studio profit or licensing return.
+- Collection membership does not prove that rights are available as a package.
+- The analysis does not contain actual licensing quotations, rights terms or StreamVault-specific demand forecasts.
+- Talent results are descriptive associations, not causal evidence.
+
+The shortlist is intended to guide further rights and commercial due diligence. It is not, by itself, approval to spend the proposed licensing budget.
+
+### Final deliverables
+- `notebooks/03_streamvault_analysis.ipynb` — reproducible financial, sensitivity and talent analysis.
+- `data/processed/licensing_comparison.csv` — comparison results.
+- `data/processed/licensing_units_all_years.csv` — all-years licensing units.
+- `data/processed/licensing_units_2000_onward.csv` — post-2000 licensing units.
+- `data/processed/movie_financial_metrics.csv` — film-level financial metrics.
+- `data/processed/director_performance.csv` — director performance results.
+- `data/processed/lead_actor_performance.csv` — lead-actor performance results.
+- `reports/client_memo.md` — client-facing recommendation.
+- `reports/decision_notes.md` — methodology, assumptions, limitations and improvement plan.

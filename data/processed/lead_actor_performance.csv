@@ -1,0 +1,297 @@
+person_id,name,film_count,titles,total_budget,total_revenue,gross_revenue_less_budget,median_movie_gross_return_pct,mean_movie_gross_return_pct,weighted_gross_return_pct,role,period
+2,Mark Hamill,3,Return of the Jedi | Star Wars | The Empire Strikes Back,61350000,1886498007,1825148007,2891.1111111111113,3836.836158993854,2974.9763765281173,Lead actor (top 3 billed),All release years
+3,Harrison Ford,8,Blade Runner | Indiana Jones and the Kingdom of the Crystal Skull | Indiana Jones and the Last Crusade | Indiana Jones and the Temple of Doom | Raiders of the Lost Ark | Return of the Jedi | Star Wars | The Empire Strikes Back,368350000,3912061512,3543711512,1379.99669998068,1991.0634936527522,962.0500914890729,Lead actor (top 3 billed),All release years
+4,Carrie Fisher,3,Return of the Jedi | Star Wars | The Empire Strikes Back,61350000,1886498007,1825148007,2891.1111111111113,3836.836158993854,2974.9763765281173,Lead actor (top 3 billed),All release years
+31,Tom Hanks,5,Forrest Gump | Toy Story | Toy Story 2 | Toy Story 3 | Toy Story 4,550000000,3717078584,3167078584,513.6236537142858,753.7456602165945,575.8324698181818,Lead actor (top 3 billed),All release years
+32,Robin Wright,1,Forrest Gump,55000000,677387716,622387716,1131.614029090909,1131.614029090909,1131.614029090909,Lead actor (top 3 billed),All release years
+33,Gary Sinise,1,Forrest Gump,55000000,677387716,622387716,1131.614029090909,1131.614029090909,1131.614029090909,Lead actor (top 3 billed),All release years
+62,Bruce Willis,4,Die Hard | Die Hard 2 | Die Hard: With a Vengeance | Live Free or Die Hard,298000000,1130432180,832432180,277.72229808080806,300.27221475468974,279.3396577181208,Lead actor (top 3 billed),All release years
+64,Gary Oldman,1,The Dark Knight Rises,250000000,1081041287,831041287,332.4165148,332.4165148,332.4165148,Lead actor (top 3 billed),All release years
+85,Johnny Depp,5,Pirates of the Caribbean: At World's End | Pirates of the Caribbean: Dead Man's Chest | Pirates of the Caribbean: Dead Men Tell No Tales | Pirates of the Caribbean: On Stranger Tides | Pirates of the Caribbean: The Curse of the Black Pearl,1249000000,4525525744,3276525744,246.05317304347824,288.7503392877634,262.33192506004804,Lead actor (top 3 billed),All release years
+103,Mark Ruffalo,3,Avengers: Age of Ultron | Avengers: Endgame | The Avengers,811000000,5866868987,5055868987,590.3706886363636,605.0006100116271,623.4117123304562,Lead actor (top 3 billed),All release years
+109,Elijah Wood,3,The Lord of the Rings: The Fellowship of the Ring | The Lord of the Rings: The Return of the King | The Lord of the Rings: The Two Towers,266000000,2916544743,2650544743,1072.5156962025317,999.9261169260479,996.4453921052632,Lead actor (top 3 billed),All release years
+110,Viggo Mortensen,3,The Lord of the Rings: The Fellowship of the Ring | The Lord of the Rings: The Return of the King | The Lord of the Rings: The Two Towers,266000000,2916544743,2650544743,1072.5156962025317,999.9261169260479,996.4453921052632,Lead actor (top 3 billed),All release years
+112,Cate Blanchett,1,Indiana Jones and the Kingdom of the Crystal Skull,185000000,786636033,601636033,325.2086664864865,325.2086664864865,325.2086664864865,Lead actor (top 3 billed),All release years
+114,Orlando Bloom,3,Pirates of the Caribbean: At World's End | Pirates of the Caribbean: Dead Man's Chest | Pirates of the Caribbean: The Curse of the Black Pearl,640000000,2682882180,2042882180,367.86516,340.50625661111116,319.200340625,Lead actor (top 3 billed),All release years
+116,Keira Knightley,1,Pirates of the Caribbean: Dead Man's Chest,200000000,1066179747,866179747,433.0898735,433.0898735,433.0898735,Lead actor (top 3 billed),All release years
+118,Geoffrey Rush,4,Pirates of the Caribbean: At World's End | Pirates of the Caribbean: Dead Men Tell No Tales | Pirates of the Caribbean: On Stranger Tides | Pirates of the Caribbean: The Curse of the Black Pearl,1049000000,3459345997,2410345997,233.3084546884058,252.6654557347042,229.7755955195424,Lead actor (top 3 billed),All release years
+139,Uma Thurman,3,Kill Bill: Vol. 1 | Kill Bill: Vol. 2 | Pulp Fiction,68000000,546994299,478994299,503.0202533333333,1161.4426605555554,704.403380882353,Lead actor (top 3 billed),All release years
+140,Lucy Liu,1,Kill Bill: Vol. 1,30000000,180906076,150906076,503.0202533333333,503.0202533333333,503.0202533333333,Lead actor (top 3 billed),All release years
+141,David Carradine,1,Kill Bill: Vol. 2,30000000,152159461,122159461,407.19820333333337,407.19820333333337,407.19820333333337,Lead actor (top 3 billed),All release years
+190,Clint Eastwood,1,"The Good, the Bad and the Ugly",1200000,38900000,37700000,3141.666666666667,3141.666666666667,3141.666666666667,Lead actor (top 3 billed),All release years
+192,Morgan Freeman,1,The Shawshank Redemption,25000000,28341469,3341469,13.365875999999998,13.365875999999998,13.365875999999998,Lead actor (top 3 billed),All release years
+287,Brad Pitt,4,Fight Club | Ocean's Eleven | Ocean's Thirteen | Ocean's Twelve,343000000,1225627807,882627807,248.00883657754014,246.58961649138445,257.32589125364433,Lead actor (top 3 billed),All release years
+349,Scott Glenn,1,The Silence of the Lambs,19000000,272742922,253742922,1335.4890631578946,1335.4890631578946,1335.4890631578946,Lead actor (top 3 billed),All release years
+380,Robert De Niro,1,GoodFellas,25000000,47072327,22072327,88.289308,88.289308,88.289308,Lead actor (top 3 billed),All release years
+500,Tom Cruise,5,Mission: Impossible | Mission: Impossible - Ghost Protocol | Mission: Impossible - Rogue Nation | Mission: Impossible II | Mission: Impossible III,650000000,2779994012,2129994012,355.144424,341.8282146024138,327.69138646153846,Lead actor (top 3 billed),All release years
+504,Tim Robbins,1,The Shawshank Redemption,25000000,28341469,3341469,13.365875999999998,13.365875999999998,13.365875999999998,Lead actor (top 3 billed),All release years
+514,Jack Nicholson,1,The Departed,90000000,291465000,201465000,223.85000000000002,223.85000000000002,223.85000000000002,Lead actor (top 3 billed),All release years
+521,Michael J. Fox,3,Back to the Future | Back to the Future Part II | Back to the Future Part III,99000000,969485632,870485632,732.1529925,1068.539951754386,879.2784161616162,Lead actor (top 3 billed),All release years
+524,Natalie Portman,3,Star Wars: Episode I - The Phantom Menace | Star Wars: Episode II - Attack of the Clones | Star Wars: Episode III - Revenge of the Sith,348000000,2545913737,2197913737,652.2123893805309,634.4636872814331,631.5844071839081,Lead actor (top 3 billed),All release years
+529,Guy Pearce,1,Memento,9000000,40060108,31060108,345.11231111111107,345.11231111111107,345.11231111111107,Lead actor (top 3 billed),All release years
+530,Carrie-Anne Moss,4,Memento | The Matrix | The Matrix Reloaded | The Matrix Revolutions,372000000,1667165403,1295165403,368.7560558888889,389.1448658888889,348.1627427419355,Lead actor (top 3 billed),All release years
+532,Joe Pantoliano,1,Memento,9000000,40060108,31060108,345.11231111111107,345.11231111111107,345.11231111111107,Lead actor (top 3 billed),All release years
+585,Rutger Hauer,1,Blade Runner,28000000,41722424,13722424,49.008657142857146,49.008657142857146,49.008657142857146,Lead actor (top 3 billed),All release years
+586,Sean Young,1,Blade Runner,28000000,41722424,13722424,49.008657142857146,49.008657142857146,49.008657142857146,Lead actor (top 3 billed),All release years
+589,Daryl Hannah,1,Kill Bill: Vol. 2,30000000,152159461,122159461,407.19820333333337,407.19820333333337,407.19820333333337,Lead actor (top 3 billed),All release years
+650,Karen Allen,2,Indiana Jones and the Kingdom of the Crystal Skull | Raiders of the Lost Ark,203000000,1176562004,973562004,1195.7320304654654,1195.7320304654654,479.58719408866995,Lead actor (top 3 billed),All release years
+652,Paul Freeman,1,Raiders of the Lost Ark,18000000,389925971,371925971,2066.2553944444444,2066.2553944444444,2066.2553944444444,Lead actor (top 3 billed),All release years
+656,Denholm Elliott,1,Indiana Jones and the Last Crusade,48000000,474171806,426171806,887.8579291666666,887.8579291666666,887.8579291666666,Lead actor (top 3 billed),All release years
+670,Ben Burtt,1,WALL·E,180000000,521311860,341311860,189.6177,189.6177,189.6177,Lead actor (top 3 billed),All release years
+679,Franka Potente,2,The Bourne Identity | The Bourne Supremacy,135000000,502534441,367534441,270.69533133333334,270.69533133333334,272.24773407407406,Lead actor (top 3 billed),All release years
+689,Kate Capshaw,1,Indiana Jones and the Temple of Doom,28000000,333107271,305107271,1089.668825,1089.668825,1089.668825,Lead actor (top 3 billed),All release years
+690,Ke Huy Quan,1,Indiana Jones and the Temple of Doom,28000000,333107271,305107271,1089.668825,1089.668825,1089.668825,Lead actor (top 3 billed),All release years
+707,Dan Aykroyd,1,Ghostbusters,30000000,296640120,266640120,888.8004000000001,888.8004000000001,888.8004000000001,Lead actor (top 3 billed),All release years
+738,Sean Connery,1,Indiana Jones and the Last Crusade,48000000,474171806,426171806,887.8579291666666,887.8579291666666,887.8579291666666,Lead actor (top 3 billed),All release years
+776,Eddie Murphy,4,Shrek | Shrek 2 | Shrek Forever After | Shrek the Third,535000000,2983130036,2448130036,463.44451377083334,499.7844583626894,457.5943992523365,Lead actor (top 3 billed),All release years
+819,Edward Norton,1,Fight Club,63000000,100853753,37853753,60.085322222222224,60.085322222222224,60.085322222222224,Lead actor (top 3 billed),All release years
+820,Edward Furlong,1,Terminator 2: Judgment Day,102000000,517814175,415814175,407.66095588235294,407.66095588235294,407.66095588235294,Lead actor (top 3 billed),All release years
+955,Penélope Cruz,1,Pirates of the Caribbean: On Stranger Tides,379000000,1046721266,667721266,176.1797535620053,176.1797535620053,176.1797535620053,Lead actor (top 3 billed),All release years
+1038,Jodie Foster,1,The Silence of the Lambs,19000000,272742922,253742922,1335.4890631578946,1335.4890631578946,1335.4890631578946,Lead actor (top 3 billed),All release years
+1062,Christopher Lloyd,3,Back to the Future | Back to the Future Part II | Back to the Future Part III,99000000,969485632,870485632,732.1529925,1068.539951754386,879.2784161616162,Lead actor (top 3 billed),All release years
+1063,Lea Thompson,1,Back to the Future Part II,40000000,332861197,292861197,732.1529925,732.1529925,732.1529925,Lead actor (top 3 billed),All release years
+1064,Crispin Glover,1,Back to the Future,19000000,391546852,372546852,1960.772905263158,1960.772905263158,1960.772905263158,Lead actor (top 3 billed),All release years
+1100,Arnold Schwarzenegger,3,Terminator 2: Judgment Day | Terminator 3: Rise of the Machines | The Terminator,308400000,1031185375,722785375,407.66095588235294,549.9036519607843,234.36620460440986,Lead actor (top 3 billed),All release years
+1158,Al Pacino,5,Ocean's Thirteen | Scarface | The Godfather | The Godfather Part II | The Godfather Part III,183000000,861768426,678768426,266.25014588235297,1051.4569799263281,370.9117081967213,Lead actor (top 3 billed),All release years
+1159,Steven Bauer,1,Scarface,25000000,66023329,41023329,164.093316,164.093316,164.093316,Lead actor (top 3 billed),All release years
+1160,Michelle Pfeiffer,1,Scarface,25000000,66023329,41023329,164.093316,164.093316,164.093316,Lead actor (top 3 billed),All release years
+1204,Julia Roberts,1,Ocean's Twelve,110000000,362744280,252744280,229.76752727272728,229.76752727272728,229.76752727272728,Lead actor (top 3 billed),All release years
+1229,Jeff Bridges,1,Iron Man,140000000,585174222,445174222,317.98158714285717,317.98158714285717,317.98158714285717,Lead actor (top 3 billed),All release years
+1230,John Goodman,1,"Monsters, Inc.",130000000,650000000,520000000,400.0,400.0,400.0,Lead actor (top 3 billed),All release years
+1231,Julianne Moore,1,The Lost World: Jurassic Park,73000000,618638999,545638999,747.4506835616438,747.4506835616438,747.4506835616438,Lead actor (top 3 billed),All release years
+1233,Philip Seymour Hoffman,1,Mission: Impossible III,150000000,398479497,248479497,165.652998,165.652998,165.652998,Lead actor (top 3 billed),All release years
+1248,Brian Cox,1,The Bourne Supremacy,75000000,288500217,213500217,284.666956,284.666956,284.666956,Lead actor (top 3 billed),All release years
+1271,Andy Garcia,1,Ocean's Eleven,85000000,450717150,365717150,430.2554705882353,430.2554705882353,430.2554705882353,Lead actor (top 3 billed),All release years
+1283,Helena Bonham Carter,1,Fight Club,63000000,100853753,37853753,60.085322222222224,60.085322222222224,60.085322222222224,Lead actor (top 3 billed),All release years
+1327,Ian McKellen,6,The Hobbit: An Unexpected Journey | The Hobbit: The Battle of the Five Armies | The Hobbit: The Desolation of Smaug | The Lord of the Rings: The Fellowship of the Ring | The Lord of the Rings: The Return of the King | The Lord of the Rings: The Two Towers,1016000000,5852068099,4836068099,572.6983286537634,645.6646155296906,475.9909546259842,Lead actor (top 3 billed),All release years
+1461,George Clooney,3,Ocean's Eleven | Ocean's Thirteen | Ocean's Twelve,280000000,1124774054,844774054,266.25014588235297,308.7577145811052,301.7050192857143,Lead actor (top 3 billed),All release years
+1524,Harold Ramis,1,Ghostbusters,30000000,296640120,266640120,888.8004000000001,888.8004000000001,888.8004000000001,Lead actor (top 3 billed),All release years
+1532,Bill Murray,1,Ghostbusters,30000000,296640120,266640120,888.8004000000001,888.8004000000001,888.8004000000001,Lead actor (top 3 billed),All release years
+1810,Heath Ledger,1,The Dark Knight,185000000,1008480529,823480529,445.12461027027024,445.12461027027024,445.12461027027024,Lead actor (top 3 billed),All release years
+1813,Anne Hathaway,1,Interstellar,165000000,746606706,581606706,352.48891272727275,352.48891272727275,352.48891272727275,Lead actor (top 3 billed),All release years
+1892,Matt Damon,4,The Bourne Identity | The Bourne Supremacy | The Bourne Ultimatum | The Departed,295000000,1236823579,941823579,270.69533133333334,324.4616435238095,319.26223016949154,Lead actor (top 3 billed),All release years
+1896,Don Cheadle,2,Iron Man 2 | Iron Man 3,400000000,1839510536,1439510536,359.877634,359.877634,359.877634,Lead actor (top 3 billed),All release years
+1920,Winona Ryder,1,Alien Resurrection,70000000,162000000,92000000,131.42857142857142,131.42857142857142,131.42857142857142,Lead actor (top 3 billed),All release years
+2231,Samuel L. Jackson,2,Die Hard: With a Vengeance | Pulp Fiction,98000000,580030428,482030428,1440.4445769444444,1440.4445769444444,491.8677836734694,Lead actor (top 3 billed),All release years
+2282,Ben Kingsley,1,Schindler's List,22000000,321365567,299365567,1360.7525772727274,1360.7525772727274,1360.7525772727274,Lead actor (top 3 billed),All release years
+2413,Dominique Pinon,1,Alien Resurrection,70000000,162000000,92000000,131.42857142857142,131.42857142857142,131.42857142857142,Lead actor (top 3 billed),All release years
+2453,Mary Steenburgen,1,Back to the Future Part III,40000000,245077583,205077583,512.6939575,512.6939575,512.6939575,Lead actor (top 3 billed),All release years
+2524,Tom Hardy,2,Mad Max: Fury Road | The Dark Knight Rises,400000000,1459899627,1059899627,242.49437073333334,242.49437073333334,264.97490675,Lead actor (top 3 billed),All release years
+2535,Vivica A. Fox,1,Kill Bill: Vol. 1,30000000,180906076,150906076,503.0202533333333,503.0202533333333,503.0202533333333,Lead actor (top 3 billed),All release years
+2712,Michael Biehn,2,Aliens | The Terminator,24900000,261687655,236787655,1007.7248783783783,1007.7248783783783,950.9544377510041,Lead actor (top 3 billed),All release years
+2713,Linda Hamilton,2,Terminator 2: Judgment Day | The Terminator,108400000,596185375,487785375,766.1054779411764,766.1054779411764,449.98650830258305,Lead actor (top 3 billed),All release years
+2955,Chris Cooper,1,The Bourne Identity,60000000,214034224,154034224,256.72370666666666,256.72370666666666,256.72370666666666,Lead actor (top 3 billed),All release years
+2975,Laurence Fishburne,3,The Matrix | The Matrix Reloaded | The Matrix Revolutions,363000000,1627105295,1264105295,392.3998006666667,403.82238414814816,348.2383732782369,Lead actor (top 3 billed),All release years
+3037,Richard Dreyfuss,1,Jaws,7000000,470653000,463653000,6623.614285714285,6623.614285714285,6623.614285714285,Lead actor (top 3 billed),All release years
+3061,Ewan McGregor,3,Star Wars: Episode I - The Phantom Menace | Star Wars: Episode II - Attack of the Clones | Star Wars: Episode III - Revenge of the Sith,348000000,2545913737,2197913737,652.2123893805309,634.4636872814331,631.5844071839081,Lead actor (top 3 billed),All release years
+3084,Marlon Brando,1,The Godfather,6000000,245066411,239066411,3984.4401833333336,3984.4401833333336,3984.4401833333336,Lead actor (top 3 billed),All release years
+3085,James Caan,1,The Godfather,6000000,245066411,239066411,3984.4401833333336,3984.4401833333336,3984.4401833333336,Lead actor (top 3 billed),All release years
+3087,Robert Duvall,1,The Godfather Part II,13000000,102600000,89600000,689.2307692307693,689.2307692307693,689.2307692307693,Lead actor (top 3 billed),All release years
+3092,Diane Keaton,2,The Godfather Part II | The Godfather Part III,67000000,239366062,172366062,421.25062720797723,421.25062720797723,257.2627791044776,Lead actor (top 3 billed),All release years
+3094,Talia Shire,1,The Godfather Part III,54000000,136766062,82766062,153.27048518518518,153.27048518518518,153.27048518518518,Lead actor (top 3 billed),All release years
+3223,Robert Downey Jr.,7,Avengers: Age of Ultron | Avengers: Endgame | Avengers: Infinity War | Iron Man | Iron Man 2 | Iron Man 3 | The Avengers,1651000000,10343968784,8692968784,507.78860249999997,490.98243307301027,526.5274854027862,Lead actor (top 3 billed),All release years
+3234,Joan Cusack,2,Toy Story 2 | Toy Story 3,290000000,1564691505,1274691505,443.14869413888886,443.14869413888886,439.5487948275862,Lead actor (top 3 billed),All release years
+3265,Eli Wallach,1,"The Good, the Bad and the Ugly",1200000,38900000,37700000,3141.666666666667,3141.666666666667,3141.666666666667,Lead actor (top 3 billed),All release years
+3292,Nicholas Hoult,1,Mad Max: Fury Road,150000000,378858340,228858340,152.57222666666667,152.57222666666667,152.57222666666667,Lead actor (top 3 billed),All release years
+3810,Javier Bardem,1,Pirates of the Caribbean: Dead Men Tell No Tales,230000000,795922298,565922298,246.05317304347824,246.05317304347824,246.05317304347824,Lead actor (top 3 billed),All release years
+3894,Christian Bale,5,Batman Begins | Terminator Salvation | The Dark Knight | The Dark Knight Rises | The Prestige,825000000,2944769801,2119769801,174.1907775,237.37750368072074,256.94179406060607,Lead actor (top 3 billed),All release years
+3895,Michael Caine,3,Batman Begins | Interstellar | The Prestige,355000000,1230501690,875501690,174.1907775,225.38626852020204,246.6201943661972,Lead actor (top 3 billed),All release years
+3896,Liam Neeson,3,Batman Begins | Schindler's List | Star Wars: Episode I - The Phantom Menace,287000000,1742099649,1455099649,810.0133991304349,773.415030578832,507.00336202090597,Lead actor (top 3 billed),All release years
+3899,Ken Watanabe,1,Inception,160000000,839030630,679030630,424.39414375,424.39414375,424.39414375,Lead actor (top 3 billed),All release years
+3905,William H. Macy,1,Jurassic Park III,93000000,368780809,275780809,296.53850430107525,296.53850430107525,296.53850430107525,Lead actor (top 3 billed),All release years
+4029,Bob Gunton,1,The Shawshank Redemption,25000000,28341469,3341469,13.365875999999998,13.365875999999998,13.365875999999998,Lead actor (top 3 billed),All release years
+4078,Lee Van Cleef,1,"The Good, the Bad and the Ugly",1200000,38900000,37700000,3141.666666666667,3141.666666666667,3141.666666666667,Lead actor (top 3 billed),All release years
+4139,Tom Skerritt,1,Alien,11000000,104931801,93931801,853.9254636363637,853.9254636363637,853.9254636363637,Lead actor (top 3 billed),All release years
+4173,Anthony Hopkins,1,The Silence of the Lambs,19000000,272742922,253742922,1335.4890631578946,1335.4890631578946,1335.4890631578946,Lead actor (top 3 billed),All release years
+4391,Charles Dance,1,Alien³,50000000,159773545,109773545,219.54709000000003,219.54709000000003,219.54709000000003,Lead actor (top 3 billed),All release years
+4517,Joe Pesci,1,GoodFellas,25000000,47072327,22072327,88.289308,88.289308,88.289308,Lead actor (top 3 billed),All release years
+4566,Alan Rickman,1,Die Hard,28000000,140767956,112767956,402.7427,402.7427,402.7427,Lead actor (top 3 billed),All release years
+4756,Matthew Broderick,1,The Lion King,45000000,763455561,718455561,1596.5679133333333,1596.5679133333333,1596.5679133333333,Lead actor (top 3 billed),All release years
+4783,Sam Neill,2,Jurassic Park | Jurassic Park III,156000000,1427235039,1271235039,938.3122918330773,938.3122918330773,814.8942557692308,Lead actor (top 3 billed),All release years
+4784,Laura Dern,1,Jurassic Park,63000000,1058454230,995454230,1580.0860793650793,1580.0860793650793,1580.0860793650793,Lead actor (top 3 billed),All release years
+4785,Jeff Goldblum,2,Jurassic Park | The Lost World: Jurassic Park,136000000,1677093229,1541093229,1163.7683814633615,1163.7683814633615,1133.156786029412,Lead actor (top 3 billed),All release years
+4885,Emmanuelle Béart,1,Mission: Impossible,80000000,457696391,377696391,472.12048875,472.12048875,472.12048875,Lead actor (top 3 billed),All release years
+4935,Pete Postlethwaite,1,The Lost World: Jurassic Park,73000000,618638999,545638999,747.4506835616438,747.4506835616438,747.4506835616438,Lead actor (top 3 billed),All release years
+4939,Téa Leoni,1,Jurassic Park III,93000000,368780809,275780809,296.53850430107525,296.53850430107525,296.53850430107525,Lead actor (top 3 billed),All release years
+5047,Veronica Cartwright,1,Alien,11000000,104931801,93931801,853.9254636363637,853.9254636363637,853.9254636363637,Lead actor (top 3 billed),All release years
+5469,Ralph Fiennes,1,Schindler's List,22000000,321365567,299365567,1360.7525772727274,1360.7525772727274,1360.7525772727274,Lead actor (top 3 billed),All release years
+5587,Hank Azaria,1,The Smurfs,110000000,563749323,453749323,412.4993845454545,412.4993845454545,412.4993845454545,Lead actor (top 3 billed),All release years
+5723,John Leguizamo,3,Ice Age | Ice Age: Dawn of the Dinosaurs | Ice Age: The Meltdown,229000000,1930942709,1701942709,726.248445,720.3481285153798,743.2064231441049,Lead actor (top 3 billed),All release years
+5724,Denis Leary,3,Ice Age | Ice Age: Dawn of the Dinosaurs | Ice Age: The Meltdown,229000000,1930942709,1701942709,726.248445,720.3481285153798,743.2064231441049,Lead actor (top 3 billed),All release years
+6161,Jennifer Connelly,1,Requiem for a Dream,4500000,7390108,2890108,64.22462222222222,64.22462222222222,64.22462222222222,Lead actor (top 3 billed),All release years
+6193,Leonardo DiCaprio,2,Inception | The Departed,250000000,1130495630,880495630,324.122071875,324.122071875,352.19825199999997,Lead actor (top 3 billed),All release years
+6194,Claire Danes,1,Terminator 3: Rise of the Machines,200000000,435000000,235000000,117.5,117.5,117.5,Lead actor (top 3 billed),All release years
+6355,Roy Scheider,1,Jaws,7000000,470653000,463653000,6623.614285714285,6623.614285714285,6623.614285714285,Lead actor (top 3 billed),All release years
+6383,Aaron Eckhart,1,The Dark Knight,185000000,1008480529,823480529,445.12461027027024,445.12461027027024,445.12461027027024,Lead actor (top 3 billed),All release years
+6384,Keanu Reeves,3,The Matrix | The Matrix Reloaded | The Matrix Revolutions,363000000,1627105295,1264105295,392.3998006666667,403.82238414814816,348.2383732782369,Lead actor (top 3 billed),All release years
+6408,Nick Stahl,1,Terminator 3: Rise of the Machines,200000000,435000000,235000000,117.5,117.5,117.5,Lead actor (top 3 billed),All release years
+6573,William Sadler,1,Die Hard 2,70000000,240031094,170031094,242.90156285714284,242.90156285714284,242.90156285714284,Lead actor (top 3 billed),All release years
+6885,Charlize Theron,1,Mad Max: Fury Road,150000000,378858340,228858340,152.57222666666667,152.57222666666667,152.57222666666667,Lead actor (top 3 billed),All release years
+6941,Cameron Diaz,4,Shrek | Shrek 2 | Shrek Forever After | Shrek the Third,535000000,2983130036,2448130036,463.44451377083334,499.7844583626894,457.5943992523365,Lead actor (top 3 billed),All release years
+6968,Hugh Jackman,1,The Prestige,40000000,109676311,69676311,174.1907775,174.1907775,174.1907775,Lead actor (top 3 billed),All release years
+7060,Martin Freeman,3,The Hobbit: An Unexpected Journey | The Hobbit: The Battle of the Five Armies | The Hobbit: The Desolation of Smaug,750000000,2935523356,2185523356,283.36,291.4031141333333,291.40311413333336,Lead actor (top 3 billed),All release years
+7167,Don Rickles,1,Toy Story,30000000,401157969,371157969,1237.1932299999999,1237.1932299999999,1237.1932299999999,Lead actor (top 3 billed),All release years
+7499,Jared Leto,1,Requiem for a Dream,4500000,7390108,2890108,64.22462222222222,64.22462222222222,64.22462222222222,Lead actor (top 3 billed),All release years
+7673,Bonnie Bedelia,1,Die Hard 2,70000000,240031094,170031094,242.90156285714284,242.90156285714284,242.90156285714284,Lead actor (top 3 billed),All release years
+7674,Alexander Godunov,1,Die Hard,28000000,140767956,112767956,402.7427,402.7427,402.7427,Lead actor (top 3 billed),All release years
+7904,Billy Crystal,1,"Monsters, Inc.",130000000,650000000,520000000,400.0,400.0,400.0,Lead actor (top 3 billed),All release years
+7905,Mary Gibbs,1,"Monsters, Inc.",130000000,650000000,520000000,400.0,400.0,400.0,Lead actor (top 3 billed),All release years
+8606,Robert Shaw,1,Jaws,7000000,470653000,463653000,6623.614285714285,6623.614285714285,6623.614285714285,Lead actor (top 3 billed),All release years
+8873,Annie Potts,1,Toy Story 4,175000000,1073841394,898841394,513.6236537142858,513.6236537142858,513.6236537142858,Lead actor (top 3 billed),All release years
+8891,John Travolta,1,Pulp Fiction,8000000,213928762,205928762,2574.109525,2574.109525,2574.109525,Lead actor (top 3 billed),All release years
+8977,Craig T. Nelson,1,The Incredibles,92000000,631442092,539442092,586.3501,586.3501,586.3501,Lead actor (top 3 billed),All release years
+9030,Thandiwe Newton,1,Mission: Impossible II,125000000,546388108,421388108,337.1104864,337.1104864,337.1104864,Lead actor (top 3 billed),All release years
+9560,Ellen Burstyn,1,Requiem for a Dream,4500000,7390108,2890108,64.22462222222222,64.22462222222222,64.22462222222222,Lead actor (top 3 billed),All release years
+10127,Jon Voight,1,Mission: Impossible,80000000,457696391,377696391,472.12048875,472.12048875,472.12048875,Lead actor (top 3 billed),All release years
+10182,Ving Rhames,1,Mission: Impossible III,150000000,398479497,248479497,165.652998,165.652998,165.652998,Lead actor (top 3 billed),All release years
+10205,Sigourney Weaver,4,Alien | Alien Resurrection | Aliens | Alien³,149500000,610021801,460521801,536.7362768181819,523.9502204554229,308.04133846153843,Lead actor (top 3 billed),All release years
+10206,Carrie Henn,1,Aliens,18500000,183316455,164816455,890.8997567567567,890.8997567567567,890.8997567567567,Lead actor (top 3 billed),All release years
+10297,Matthew McConaughey,1,Interstellar,165000000,746606706,581606706,352.48891272727275,352.48891272727275,352.48891272727275,Lead actor (top 3 billed),All release years
+10980,Daniel Radcliffe,8,Harry Potter and the Chamber of Secrets | Harry Potter and the Deathly Hallows: Part 1 | Harry Potter and the Deathly Hallows: Part 2 | Harry Potter and the Goblet of Fire | Harry Potter and the Half-Blood Prince | Harry Potter and the Order of the Phoenix | Harry Potter and the Philosopher's Stone | Harry Potter and the Prisoner of Azkaban,1280000000,7759777709,6479777709,516.5085616410256,569.8751236435897,506.232633515625,Lead actor (top 3 billed),All release years
+10989,Rupert Grint,8,Harry Potter and the Chamber of Secrets | Harry Potter and the Deathly Hallows: Part 1 | Harry Potter and the Deathly Hallows: Part 2 | Harry Potter and the Goblet of Fire | Harry Potter and the Half-Blood Prince | Harry Potter and the Order of the Phoenix | Harry Potter and the Philosopher's Stone | Harry Potter and the Prisoner of Azkaban,1280000000,7759777709,6479777709,516.5085616410256,569.8751236435897,506.232633515625,Lead actor (top 3 billed),All release years
+10990,Emma Watson,8,Harry Potter and the Chamber of Secrets | Harry Potter and the Deathly Hallows: Part 1 | Harry Potter and the Deathly Hallows: Part 2 | Harry Potter and the Goblet of Fire | Harry Potter and the Half-Blood Prince | Harry Potter and the Order of the Phoenix | Harry Potter and the Philosopher's Stone | Harry Potter and the Prisoner of Azkaban,1280000000,7759777709,6479777709,516.5085616410256,569.8751236435897,506.232633515625,Lead actor (top 3 billed),All release years
+11064,David Strathairn,1,The Bourne Ultimatum,70000000,442824138,372824138,532.6059114285714,532.6059114285714,532.6059114285714,Lead actor (top 3 billed),All release years
+11108,Simon Pegg,2,Mission: Impossible - Ghost Protocol | Mission: Impossible - Rogue Nation,295000000,1377430016,1082430016,367.1285499310345,367.1285499310345,366.9254291525424,Lead actor (top 3 billed),All release years
+11477,Ray Liotta,1,GoodFellas,25000000,47072327,22072327,88.289308,88.289308,88.289308,Lead actor (top 3 billed),All release years
+12041,Julia Stiles,1,The Bourne Ultimatum,70000000,442824138,372824138,532.6059114285714,532.6059114285714,532.6059114285714,Lead actor (top 3 billed),All release years
+12052,Gwyneth Paltrow,2,Iron Man 2 | Iron Man 3,400000000,1839510536,1439510536,359.877634,359.877634,359.877634,Lead actor (top 3 billed),All release years
+12073,Mike Myers,4,Shrek | Shrek 2 | Shrek Forever After | Shrek the Third,535000000,2983130036,2448130036,463.44451377083334,499.7844583626894,457.5943992523365,Lead actor (top 3 billed),All release years
+12898,Tim Allen,4,Toy Story | Toy Story 2 | Toy Story 3 | Toy Story 4,495000000,3039690868,2544690868,483.13149574603176,659.2785679980159,514.0789632323233,Lead actor (top 3 billed),All release years
+13593,Jonathan Winters,1,The Smurfs,110000000,563749323,453749323,412.4993845454545,412.4993845454545,412.4993845454545,Lead actor (top 3 billed),All release years
+15033,Justin Long,1,Live Free or Die Hard,110000000,383531464,273531464,248.6649672727273,248.6649672727273,248.6649672727273,Lead actor (top 3 billed),All release years
+15336,Dougray Scott,1,Mission: Impossible II,125000000,546388108,421388108,337.1104864,337.1104864,337.1104864,Lead actor (top 3 billed),All release years
+15757,Ray Romano,3,Ice Age | Ice Age: Dawn of the Dinosaurs | Ice Age: The Meltdown,229000000,1930942709,1701942709,726.248445,720.3481285153798,743.2064231441049,Lead actor (top 3 billed),All release years
+16828,Chris Evans,3,Avengers: Endgame | Avengers: Infinity War | The Avengers,876000000,6513880332,5637880332,590.3706886363636,633.6986837539439,643.5936452054794,Lead actor (top 3 billed),All release years
+16940,Jeremy Irons,2,Die Hard: With a Vengeance | The Lion King,135000000,1129557227,994557227,951.6737711111111,951.6737711111111,736.709057037037,Lead actor (top 3 billed),All release years
+17244,Hayden Christensen,2,Star Wars: Episode II - Attack of the Clones | Star Wars: Episode III - Revenge of the Sith,233000000,1499398328,1266398328,546.6888313569322,546.6888313569322,543.5185957081545,Lead actor (top 3 billed),All release years
+17604,Jeremy Renner,1,Mission: Impossible - Rogue Nation,150000000,682716636,532716636,355.144424,355.144424,355.144424,Lead actor (top 3 billed),All release years
+17764,Charles S. Dutton,1,Alien³,50000000,159773545,109773545,219.54709000000003,219.54709000000003,219.54709000000003,Lead actor (top 3 billed),All release years
+18082,Timothy Olyphant,1,Live Free or Die Hard,110000000,383531464,273531464,248.6649672727273,248.6649672727273,248.6649672727273,Lead actor (top 3 billed),All release years
+18288,Terrence Howard,1,Iron Man,140000000,585174222,445174222,317.98158714285717,317.98158714285717,317.98158714285717,Lead actor (top 3 billed),All release years
+18686,Holly Hunter,1,The Incredibles,92000000,631442092,539442092,586.3501,586.3501,586.3501,Lead actor (top 3 billed),All release years
+19587,Rumi Hiiragi,1,Spirited Away,19000000,274925095,255925095,1346.9741842105263,1346.9741842105263,1346.9741842105263,Lead actor (top 3 billed),All release years
+19588,Miyu Irino,1,Spirited Away,19000000,274925095,255925095,1346.9741842105263,1346.9741842105263,1346.9741842105263,Lead actor (top 3 billed),All release years
+19589,Mari Natsuki,1,Spirited Away,19000000,274925095,255925095,1346.9741842105263,1346.9741842105263,1346.9741842105263,Lead actor (top 3 billed),All release years
+20005,Moira Kelly,1,The Lion King,45000000,763455561,718455561,1596.5679133333333,1596.5679133333333,1596.5679133333333,Lead actor (top 3 billed),All release years
+24045,Joseph Gordon-Levitt,1,Inception,160000000,839030630,679030630,424.39414375,424.39414375,424.39414375,Lead actor (top 3 billed),All release years
+30315,Richard Armitage,3,The Hobbit: An Unexpected Journey | The Hobbit: The Battle of the Five Armies | The Hobbit: The Desolation of Smaug,750000000,2935523356,2185523356,283.36,291.4031141333333,291.40311413333336,Lead actor (top 3 billed),All release years
+52851,Paula Patton,1,Mission: Impossible - Ghost Protocol,145000000,694713380,549713380,379.11267586206895,379.11267586206895,379.11267586206895,Lead actor (top 3 billed),All release years
+56455,Moon Bloodgood,1,Terminator Salvation,200000000,371353001,171353001,85.6765005,85.6765005,85.6765005,Lead actor (top 3 billed),All release years
+59361,Sarah Vowell,1,The Incredibles,92000000,631442092,539442092,586.3501,586.3501,586.3501,Lead actor (top 3 billed),All release years
+60074,Jeff Garlin,1,WALL·E,180000000,521311860,341311860,189.6177,189.6177,189.6177,Lead actor (top 3 billed),All release years
+65731,Sam Worthington,1,Terminator Salvation,200000000,371353001,171353001,85.6765005,85.6765005,85.6765005,Lead actor (top 3 billed),All release years
+72754,Elissa Knight,1,WALL·E,180000000,521311860,341311860,189.6177,189.6177,189.6177,Lead actor (top 3 billed),All release years
+74568,Chris Hemsworth,2,Avengers: Age of Ultron | Avengers: Infinity War,535000000,3457818733,2922818733,541.0912357198581,541.0912357198581,546.3212585046729,Lead actor (top 3 billed),All release years
+111455,Katy Perry,1,The Smurfs,110000000,563749323,453749323,412.4993845454545,412.4993845454545,412.4993845454545,Lead actor (top 3 billed),All release years
+3,Harrison Ford,1,Indiana Jones and the Kingdom of the Crystal Skull,185000000,786636033,601636033,325.2086664864865,325.2086664864865,325.2086664864865,Lead actor (top 3 billed),2000 onward
+31,Tom Hanks,2,Toy Story 3 | Toy Story 4,375000000,2141157495,1766157495,473.64085210714285,473.64085210714285,470.975332,Lead actor (top 3 billed),2000 onward
+62,Bruce Willis,1,Live Free or Die Hard,110000000,383531464,273531464,248.6649672727273,248.6649672727273,248.6649672727273,Lead actor (top 3 billed),2000 onward
+64,Gary Oldman,1,The Dark Knight Rises,250000000,1081041287,831041287,332.4165148,332.4165148,332.4165148,Lead actor (top 3 billed),2000 onward
+85,Johnny Depp,5,Pirates of the Caribbean: At World's End | Pirates of the Caribbean: Dead Man's Chest | Pirates of the Caribbean: Dead Men Tell No Tales | Pirates of the Caribbean: On Stranger Tides | Pirates of the Caribbean: The Curse of the Black Pearl,1249000000,4525525744,3276525744,246.05317304347824,288.7503392877634,262.33192506004804,Lead actor (top 3 billed),2000 onward
+103,Mark Ruffalo,3,Avengers: Age of Ultron | Avengers: Endgame | The Avengers,811000000,5866868987,5055868987,590.3706886363636,605.0006100116271,623.4117123304562,Lead actor (top 3 billed),2000 onward
+109,Elijah Wood,3,The Lord of the Rings: The Fellowship of the Ring | The Lord of the Rings: The Return of the King | The Lord of the Rings: The Two Towers,266000000,2916544743,2650544743,1072.5156962025317,999.9261169260479,996.4453921052632,Lead actor (top 3 billed),2000 onward
+110,Viggo Mortensen,3,The Lord of the Rings: The Fellowship of the Ring | The Lord of the Rings: The Return of the King | The Lord of the Rings: The Two Towers,266000000,2916544743,2650544743,1072.5156962025317,999.9261169260479,996.4453921052632,Lead actor (top 3 billed),2000 onward
+112,Cate Blanchett,1,Indiana Jones and the Kingdom of the Crystal Skull,185000000,786636033,601636033,325.2086664864865,325.2086664864865,325.2086664864865,Lead actor (top 3 billed),2000 onward
+114,Orlando Bloom,3,Pirates of the Caribbean: At World's End | Pirates of the Caribbean: Dead Man's Chest | Pirates of the Caribbean: The Curse of the Black Pearl,640000000,2682882180,2042882180,367.86516,340.50625661111116,319.200340625,Lead actor (top 3 billed),2000 onward
+116,Keira Knightley,1,Pirates of the Caribbean: Dead Man's Chest,200000000,1066179747,866179747,433.0898735,433.0898735,433.0898735,Lead actor (top 3 billed),2000 onward
+118,Geoffrey Rush,4,Pirates of the Caribbean: At World's End | Pirates of the Caribbean: Dead Men Tell No Tales | Pirates of the Caribbean: On Stranger Tides | Pirates of the Caribbean: The Curse of the Black Pearl,1049000000,3459345997,2410345997,233.3084546884058,252.6654557347042,229.7755955195424,Lead actor (top 3 billed),2000 onward
+139,Uma Thurman,2,Kill Bill: Vol. 1 | Kill Bill: Vol. 2,60000000,333065537,273065537,455.10922833333336,455.10922833333336,455.10922833333336,Lead actor (top 3 billed),2000 onward
+140,Lucy Liu,1,Kill Bill: Vol. 1,30000000,180906076,150906076,503.0202533333333,503.0202533333333,503.0202533333333,Lead actor (top 3 billed),2000 onward
+141,David Carradine,1,Kill Bill: Vol. 2,30000000,152159461,122159461,407.19820333333337,407.19820333333337,407.19820333333337,Lead actor (top 3 billed),2000 onward
+287,Brad Pitt,3,Ocean's Eleven | Ocean's Thirteen | Ocean's Twelve,280000000,1124774054,844774054,266.25014588235297,308.7577145811052,301.7050192857143,Lead actor (top 3 billed),2000 onward
+500,Tom Cruise,4,Mission: Impossible - Ghost Protocol | Mission: Impossible - Rogue Nation | Mission: Impossible II | Mission: Impossible III,570000000,2322297621,1752297621,346.1274552,309.25514606551724,307.42063526315786,Lead actor (top 3 billed),2000 onward
+514,Jack Nicholson,1,The Departed,90000000,291465000,201465000,223.85000000000002,223.85000000000002,223.85000000000002,Lead actor (top 3 billed),2000 onward
+524,Natalie Portman,2,Star Wars: Episode II - Attack of the Clones | Star Wars: Episode III - Revenge of the Sith,233000000,1499398328,1266398328,546.6888313569322,546.6888313569322,543.5185957081545,Lead actor (top 3 billed),2000 onward
+529,Guy Pearce,1,Memento,9000000,40060108,31060108,345.11231111111107,345.11231111111107,345.11231111111107,Lead actor (top 3 billed),2000 onward
+530,Carrie-Anne Moss,3,Memento | The Matrix Reloaded | The Matrix Revolutions,309000000,1203648020,894648020,345.11231111111107,306.94586192592595,289.53010355987055,Lead actor (top 3 billed),2000 onward
+532,Joe Pantoliano,1,Memento,9000000,40060108,31060108,345.11231111111107,345.11231111111107,345.11231111111107,Lead actor (top 3 billed),2000 onward
+589,Daryl Hannah,1,Kill Bill: Vol. 2,30000000,152159461,122159461,407.19820333333337,407.19820333333337,407.19820333333337,Lead actor (top 3 billed),2000 onward
+650,Karen Allen,1,Indiana Jones and the Kingdom of the Crystal Skull,185000000,786636033,601636033,325.2086664864865,325.2086664864865,325.2086664864865,Lead actor (top 3 billed),2000 onward
+670,Ben Burtt,1,WALL·E,180000000,521311860,341311860,189.6177,189.6177,189.6177,Lead actor (top 3 billed),2000 onward
+679,Franka Potente,2,The Bourne Identity | The Bourne Supremacy,135000000,502534441,367534441,270.69533133333334,270.69533133333334,272.24773407407406,Lead actor (top 3 billed),2000 onward
+776,Eddie Murphy,4,Shrek | Shrek 2 | Shrek Forever After | Shrek the Third,535000000,2983130036,2448130036,463.44451377083334,499.7844583626894,457.5943992523365,Lead actor (top 3 billed),2000 onward
+955,Penélope Cruz,1,Pirates of the Caribbean: On Stranger Tides,379000000,1046721266,667721266,176.1797535620053,176.1797535620053,176.1797535620053,Lead actor (top 3 billed),2000 onward
+1100,Arnold Schwarzenegger,1,Terminator 3: Rise of the Machines,200000000,435000000,235000000,117.5,117.5,117.5,Lead actor (top 3 billed),2000 onward
+1158,Al Pacino,1,Ocean's Thirteen,85000000,311312624,226312624,266.25014588235297,266.25014588235297,266.25014588235297,Lead actor (top 3 billed),2000 onward
+1204,Julia Roberts,1,Ocean's Twelve,110000000,362744280,252744280,229.76752727272728,229.76752727272728,229.76752727272728,Lead actor (top 3 billed),2000 onward
+1229,Jeff Bridges,1,Iron Man,140000000,585174222,445174222,317.98158714285717,317.98158714285717,317.98158714285717,Lead actor (top 3 billed),2000 onward
+1230,John Goodman,1,"Monsters, Inc.",130000000,650000000,520000000,400.0,400.0,400.0,Lead actor (top 3 billed),2000 onward
+1233,Philip Seymour Hoffman,1,Mission: Impossible III,150000000,398479497,248479497,165.652998,165.652998,165.652998,Lead actor (top 3 billed),2000 onward
+1248,Brian Cox,1,The Bourne Supremacy,75000000,288500217,213500217,284.666956,284.666956,284.666956,Lead actor (top 3 billed),2000 onward
+1271,Andy Garcia,1,Ocean's Eleven,85000000,450717150,365717150,430.2554705882353,430.2554705882353,430.2554705882353,Lead actor (top 3 billed),2000 onward
+1327,Ian McKellen,6,The Hobbit: An Unexpected Journey | The Hobbit: The Battle of the Five Armies | The Hobbit: The Desolation of Smaug | The Lord of the Rings: The Fellowship of the Ring | The Lord of the Rings: The Return of the King | The Lord of the Rings: The Two Towers,1016000000,5852068099,4836068099,572.6983286537634,645.6646155296906,475.9909546259842,Lead actor (top 3 billed),2000 onward
+1461,George Clooney,3,Ocean's Eleven | Ocean's Thirteen | Ocean's Twelve,280000000,1124774054,844774054,266.25014588235297,308.7577145811052,301.7050192857143,Lead actor (top 3 billed),2000 onward
+1810,Heath Ledger,1,The Dark Knight,185000000,1008480529,823480529,445.12461027027024,445.12461027027024,445.12461027027024,Lead actor (top 3 billed),2000 onward
+1813,Anne Hathaway,1,Interstellar,165000000,746606706,581606706,352.48891272727275,352.48891272727275,352.48891272727275,Lead actor (top 3 billed),2000 onward
+1892,Matt Damon,4,The Bourne Identity | The Bourne Supremacy | The Bourne Ultimatum | The Departed,295000000,1236823579,941823579,270.69533133333334,324.4616435238095,319.26223016949154,Lead actor (top 3 billed),2000 onward
+1896,Don Cheadle,2,Iron Man 2 | Iron Man 3,400000000,1839510536,1439510536,359.877634,359.877634,359.877634,Lead actor (top 3 billed),2000 onward
+2524,Tom Hardy,2,Mad Max: Fury Road | The Dark Knight Rises,400000000,1459899627,1059899627,242.49437073333334,242.49437073333334,264.97490675,Lead actor (top 3 billed),2000 onward
+2535,Vivica A. Fox,1,Kill Bill: Vol. 1,30000000,180906076,150906076,503.0202533333333,503.0202533333333,503.0202533333333,Lead actor (top 3 billed),2000 onward
+2955,Chris Cooper,1,The Bourne Identity,60000000,214034224,154034224,256.72370666666666,256.72370666666666,256.72370666666666,Lead actor (top 3 billed),2000 onward
+2975,Laurence Fishburne,2,The Matrix Reloaded | The Matrix Revolutions,300000000,1163587912,863587912,287.86263733333334,287.86263733333334,287.86263733333334,Lead actor (top 3 billed),2000 onward
+3061,Ewan McGregor,2,Star Wars: Episode II - Attack of the Clones | Star Wars: Episode III - Revenge of the Sith,233000000,1499398328,1266398328,546.6888313569322,546.6888313569322,543.5185957081545,Lead actor (top 3 billed),2000 onward
+3223,Robert Downey Jr.,7,Avengers: Age of Ultron | Avengers: Endgame | Avengers: Infinity War | Iron Man | Iron Man 2 | Iron Man 3 | The Avengers,1651000000,10343968784,8692968784,507.78860249999997,490.98243307301027,526.5274854027862,Lead actor (top 3 billed),2000 onward
+3234,Joan Cusack,1,Toy Story 3,200000000,1067316101,867316101,433.65805049999994,433.65805049999994,433.65805049999994,Lead actor (top 3 billed),2000 onward
+3292,Nicholas Hoult,1,Mad Max: Fury Road,150000000,378858340,228858340,152.57222666666667,152.57222666666667,152.57222666666667,Lead actor (top 3 billed),2000 onward
+3810,Javier Bardem,1,Pirates of the Caribbean: Dead Men Tell No Tales,230000000,795922298,565922298,246.05317304347824,246.05317304347824,246.05317304347824,Lead actor (top 3 billed),2000 onward
+3894,Christian Bale,5,Batman Begins | Terminator Salvation | The Dark Knight | The Dark Knight Rises | The Prestige,825000000,2944769801,2119769801,174.1907775,237.37750368072074,256.94179406060607,Lead actor (top 3 billed),2000 onward
+3895,Michael Caine,3,Batman Begins | Interstellar | The Prestige,355000000,1230501690,875501690,174.1907775,225.38626852020204,246.6201943661972,Lead actor (top 3 billed),2000 onward
+3896,Liam Neeson,1,Batman Begins,150000000,374218673,224218673,149.47911533333334,149.47911533333334,149.47911533333334,Lead actor (top 3 billed),2000 onward
+3899,Ken Watanabe,1,Inception,160000000,839030630,679030630,424.39414375,424.39414375,424.39414375,Lead actor (top 3 billed),2000 onward
+3905,William H. Macy,1,Jurassic Park III,93000000,368780809,275780809,296.53850430107525,296.53850430107525,296.53850430107525,Lead actor (top 3 billed),2000 onward
+4783,Sam Neill,1,Jurassic Park III,93000000,368780809,275780809,296.53850430107525,296.53850430107525,296.53850430107525,Lead actor (top 3 billed),2000 onward
+4939,Téa Leoni,1,Jurassic Park III,93000000,368780809,275780809,296.53850430107525,296.53850430107525,296.53850430107525,Lead actor (top 3 billed),2000 onward
+5587,Hank Azaria,1,The Smurfs,110000000,563749323,453749323,412.4993845454545,412.4993845454545,412.4993845454545,Lead actor (top 3 billed),2000 onward
+5723,John Leguizamo,3,Ice Age | Ice Age: Dawn of the Dinosaurs | Ice Age: The Meltdown,229000000,1930942709,1701942709,726.248445,720.3481285153798,743.2064231441049,Lead actor (top 3 billed),2000 onward
+5724,Denis Leary,3,Ice Age | Ice Age: Dawn of the Dinosaurs | Ice Age: The Meltdown,229000000,1930942709,1701942709,726.248445,720.3481285153798,743.2064231441049,Lead actor (top 3 billed),2000 onward
+6161,Jennifer Connelly,1,Requiem for a Dream,4500000,7390108,2890108,64.22462222222222,64.22462222222222,64.22462222222222,Lead actor (top 3 billed),2000 onward
+6193,Leonardo DiCaprio,2,Inception | The Departed,250000000,1130495630,880495630,324.122071875,324.122071875,352.19825199999997,Lead actor (top 3 billed),2000 onward
+6194,Claire Danes,1,Terminator 3: Rise of the Machines,200000000,435000000,235000000,117.5,117.5,117.5,Lead actor (top 3 billed),2000 onward
+6383,Aaron Eckhart,1,The Dark Knight,185000000,1008480529,823480529,445.12461027027024,445.12461027027024,445.12461027027024,Lead actor (top 3 billed),2000 onward
+6384,Keanu Reeves,2,The Matrix Reloaded | The Matrix Revolutions,300000000,1163587912,863587912,287.86263733333334,287.86263733333334,287.86263733333334,Lead actor (top 3 billed),2000 onward
+6408,Nick Stahl,1,Terminator 3: Rise of the Machines,200000000,435000000,235000000,117.5,117.5,117.5,Lead actor (top 3 billed),2000 onward
+6885,Charlize Theron,1,Mad Max: Fury Road,150000000,378858340,228858340,152.57222666666667,152.57222666666667,152.57222666666667,Lead actor (top 3 billed),2000 onward
+6941,Cameron Diaz,4,Shrek | Shrek 2 | Shrek Forever After | Shrek the Third,535000000,2983130036,2448130036,463.44451377083334,499.7844583626894,457.5943992523365,Lead actor (top 3 billed),2000 onward
+6968,Hugh Jackman,1,The Prestige,40000000,109676311,69676311,174.1907775,174.1907775,174.1907775,Lead actor (top 3 billed),2000 onward
+7060,Martin Freeman,3,The Hobbit: An Unexpected Journey | The Hobbit: The Battle of the Five Armies | The Hobbit: The Desolation of Smaug,750000000,2935523356,2185523356,283.36,291.4031141333333,291.40311413333336,Lead actor (top 3 billed),2000 onward
+7499,Jared Leto,1,Requiem for a Dream,4500000,7390108,2890108,64.22462222222222,64.22462222222222,64.22462222222222,Lead actor (top 3 billed),2000 onward
+7904,Billy Crystal,1,"Monsters, Inc.",130000000,650000000,520000000,400.0,400.0,400.0,Lead actor (top 3 billed),2000 onward
+7905,Mary Gibbs,1,"Monsters, Inc.",130000000,650000000,520000000,400.0,400.0,400.0,Lead actor (top 3 billed),2000 onward
+8873,Annie Potts,1,Toy Story 4,175000000,1073841394,898841394,513.6236537142858,513.6236537142858,513.6236537142858,Lead actor (top 3 billed),2000 onward
+8977,Craig T. Nelson,1,The Incredibles,92000000,631442092,539442092,586.3501,586.3501,586.3501,Lead actor (top 3 billed),2000 onward
+9030,Thandiwe Newton,1,Mission: Impossible II,125000000,546388108,421388108,337.1104864,337.1104864,337.1104864,Lead actor (top 3 billed),2000 onward
+9560,Ellen Burstyn,1,Requiem for a Dream,4500000,7390108,2890108,64.22462222222222,64.22462222222222,64.22462222222222,Lead actor (top 3 billed),2000 onward
+10182,Ving Rhames,1,Mission: Impossible III,150000000,398479497,248479497,165.652998,165.652998,165.652998,Lead actor (top 3 billed),2000 onward
+10297,Matthew McConaughey,1,Interstellar,165000000,746606706,581606706,352.48891272727275,352.48891272727275,352.48891272727275,Lead actor (top 3 billed),2000 onward
+10980,Daniel Radcliffe,8,Harry Potter and the Chamber of Secrets | Harry Potter and the Deathly Hallows: Part 1 | Harry Potter and the Deathly Hallows: Part 2 | Harry Potter and the Goblet of Fire | Harry Potter and the Half-Blood Prince | Harry Potter and the Order of the Phoenix | Harry Potter and the Philosopher's Stone | Harry Potter and the Prisoner of Azkaban,1280000000,7759777709,6479777709,516.5085616410256,569.8751236435897,506.232633515625,Lead actor (top 3 billed),2000 onward
+10989,Rupert Grint,8,Harry Potter and the Chamber of Secrets | Harry Potter and the Deathly Hallows: Part 1 | Harry Potter and the Deathly Hallows: Part 2 | Harry Potter and the Goblet of Fire | Harry Potter and the Half-Blood Prince | Harry Potter and the Order of the Phoenix | Harry Potter and the Philosopher's Stone | Harry Potter and the Prisoner of Azkaban,1280000000,7759777709,6479777709,516.5085616410256,569.8751236435897,506.232633515625,Lead actor (top 3 billed),2000 onward
+10990,Emma Watson,8,Harry Potter and the Chamber of Secrets | Harry Potter and the Deathly Hallows: Part 1 | Harry Potter and the Deathly Hallows: Part 2 | Harry Potter and the Goblet of Fire | Harry Potter and the Half-Blood Prince | Harry Potter and the Order of the Phoenix | Harry Potter and the Philosopher's Stone | Harry Potter and the Prisoner of Azkaban,1280000000,7759777709,6479777709,516.5085616410256,569.8751236435897,506.232633515625,Lead actor (top 3 billed),2000 onward
+11064,David Strathairn,1,The Bourne Ultimatum,70000000,442824138,372824138,532.6059114285714,532.6059114285714,532.6059114285714,Lead actor (top 3 billed),2000 onward
+11108,Simon Pegg,2,Mission: Impossible - Ghost Protocol | Mission: Impossible - Rogue Nation,295000000,1377430016,1082430016,367.1285499310345,367.1285499310345,366.9254291525424,Lead actor (top 3 billed),2000 onward
+12041,Julia Stiles,1,The Bourne Ultimatum,70000000,442824138,372824138,532.6059114285714,532.6059114285714,532.6059114285714,Lead actor (top 3 billed),2000 onward
+12052,Gwyneth Paltrow,2,Iron Man 2 | Iron Man 3,400000000,1839510536,1439510536,359.877634,359.877634,359.877634,Lead actor (top 3 billed),2000 onward
+12073,Mike Myers,4,Shrek | Shrek 2 | Shrek Forever After | Shrek the Third,535000000,2983130036,2448130036,463.44451377083334,499.7844583626894,457.5943992523365,Lead actor (top 3 billed),2000 onward
+12898,Tim Allen,2,Toy Story 3 | Toy Story 4,375000000,2141157495,1766157495,473.64085210714285,473.64085210714285,470.975332,Lead actor (top 3 billed),2000 onward
+13593,Jonathan Winters,1,The Smurfs,110000000,563749323,453749323,412.4993845454545,412.4993845454545,412.4993845454545,Lead actor (top 3 billed),2000 onward
+15033,Justin Long,1,Live Free or Die Hard,110000000,383531464,273531464,248.6649672727273,248.6649672727273,248.6649672727273,Lead actor (top 3 billed),2000 onward
+15336,Dougray Scott,1,Mission: Impossible II,125000000,546388108,421388108,337.1104864,337.1104864,337.1104864,Lead actor (top 3 billed),2000 onward
+15757,Ray Romano,3,Ice Age | Ice Age: Dawn of the Dinosaurs | Ice Age: The Meltdown,229000000,1930942709,1701942709,726.248445,720.3481285153798,743.2064231441049,Lead actor (top 3 billed),2000 onward
+16828,Chris Evans,3,Avengers: Endgame | Avengers: Infinity War | The Avengers,876000000,6513880332,5637880332,590.3706886363636,633.6986837539439,643.5936452054794,Lead actor (top 3 billed),2000 onward
+17244,Hayden Christensen,2,Star Wars: Episode II - Attack of the Clones | Star Wars: Episode III - Revenge of the Sith,233000000,1499398328,1266398328,546.6888313569322,546.6888313569322,543.5185957081545,Lead actor (top 3 billed),2000 onward
+17604,Jeremy Renner,1,Mission: Impossible - Rogue Nation,150000000,682716636,532716636,355.144424,355.144424,355.144424,Lead actor (top 3 billed),2000 onward
+18082,Timothy Olyphant,1,Live Free or Die Hard,110000000,383531464,273531464,248.6649672727273,248.6649672727273,248.6649672727273,Lead actor (top 3 billed),2000 onward
+18288,Terrence Howard,1,Iron Man,140000000,585174222,445174222,317.98158714285717,317.98158714285717,317.98158714285717,Lead actor (top 3 billed),2000 onward
+18686,Holly Hunter,1,The Incredibles,92000000,631442092,539442092,586.3501,586.3501,586.3501,Lead actor (top 3 billed),2000 onward
+19587,Rumi Hiiragi,1,Spirited Away,19000000,274925095,255925095,1346.9741842105263,1346.9741842105263,1346.9741842105263,Lead actor (top 3 billed),2000 onward
+19588,Miyu Irino,1,Spirited Away,19000000,274925095,255925095,1346.9741842105263,1346.9741842105263,1346.9741842105263,Lead actor (top 3 billed),2000 onward
+19589,Mari Natsuki,1,Spirited Away,19000000,274925095,255925095,1346.9741842105263,1346.9741842105263,1346.9741842105263,Lead actor (top 3 billed),2000 onward
+24045,Joseph Gordon-Levitt,1,Inception,160000000,839030630,679030630,424.39414375,424.39414375,424.39414375,Lead actor (top 3 billed),2000 onward
+30315,Richard Armitage,3,The Hobbit: An Unexpected Journey | The Hobbit: The Battle of the Five Armies | The Hobbit: The Desolation of Smaug,750000000,2935523356,2185523356,283.36,291.4031141333333,291.40311413333336,Lead actor (top 3 billed),2000 onward
+52851,Paula Patton,1,Mission: Impossible - Ghost Protocol,145000000,694713380,549713380,379.11267586206895,379.11267586206895,379.11267586206895,Lead actor (top 3 billed),2000 onward
+56455,Moon Bloodgood,1,Terminator Salvation,200000000,371353001,171353001,85.6765005,85.6765005,85.6765005,Lead actor (top 3 billed),2000 onward
+59361,Sarah Vowell,1,The Incredibles,92000000,631442092,539442092,586.3501,586.3501,586.3501,Lead actor (top 3 billed),2000 onward
+60074,Jeff Garlin,1,WALL·E,180000000,521311860,341311860,189.6177,189.6177,189.6177,Lead actor (top 3 billed),2000 onward
+65731,Sam Worthington,1,Terminator Salvation,200000000,371353001,171353001,85.6765005,85.6765005,85.6765005,Lead actor (top 3 billed),2000 onward
+72754,Elissa Knight,1,WALL·E,180000000,521311860,341311860,189.6177,189.6177,189.6177,Lead actor (top 3 billed),2000 onward
+74568,Chris Hemsworth,2,Avengers: Age of Ultron | Avengers: Infinity War,535000000,3457818733,2922818733,541.0912357198581,541.0912357198581,546.3212585046729,Lead actor (top 3 billed),2000 onward
+111455,Katy Perry,1,The Smurfs,110000000,563749323,453749323,412.4993845454545,412.4993845454545,412.4993845454545,Lead actor (top 3 billed),2000 onward
