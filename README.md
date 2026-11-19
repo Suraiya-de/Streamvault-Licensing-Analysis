@@ -136,7 +136,7 @@ Data availability, missing financial information, historical reporting differenc
 
 ## Project Status
 
-### Current Progress: Initial Data Investigation
+### Completed: Initial Data Investigation
 
 Completed the initial investigation of the candidate movie ID dataset.
 
@@ -147,6 +147,20 @@ Completed the initial investigation of the candidate movie ID dataset.
 - Created a record-level investigation table.
 - Documented preliminary findings in `docs/findings.md`.
 
-**Next:** Validate candidate identifiers against TMDb and begin designing the data acquisition process.
+### In Progress: TMDb Data Acquisition
 
-TMDb existence and metadata completeness have not yet been verified.
+Established a successful connection to the TMDb API and began developing the data acquisition process.
+
+- Configured authentication using a locally stored environment variable.
+- Successfully retrieved movie metadata and credits using a test movie ID.
+- Explored the structure of the API response, including nested cast and crew records.
+- Implemented an initial JSON cache with UTC fetch timestamps.
+- Implemented atomic cache writing and basic cache reading.
+- Tested cache creation, readback and cache-miss behaviour.
+- Updated `.gitignore` to exclude generated movie cache files.
+
+The cache foundation has been tested independently. The complete cache-aware acquisition workflow is not yet implemented.
+
+**Next:** Integrate caching with API requests, then implement request throttling, retry handling, failure logging and interruption recovery.
+
+TMDb existence and metadata completeness for the full candidate list have not yet been verified.
