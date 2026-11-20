@@ -1,0 +1,321 @@
+tmdb_id,genre_id,genre_name
+11,12,Adventure
+11,28,Action
+11,878,Science Fiction
+13,35,Comedy
+13,18,Drama
+13,10749,Romance
+22,12,Adventure
+22,14,Fantasy
+22,28,Action
+24,28,Action
+24,80,Crime
+58,12,Adventure
+58,14,Fantasy
+58,28,Action
+77,9648,Mystery
+77,53,Thriller
+78,878,Science Fiction
+78,18,Drama
+78,53,Thriller
+85,12,Adventure
+85,28,Action
+87,12,Adventure
+87,28,Action
+89,12,Adventure
+89,28,Action
+105,12,Adventure
+105,35,Comedy
+105,878,Science Fiction
+111,28,Action
+111,80,Crime
+111,18,Drama
+120,12,Adventure
+120,14,Fantasy
+120,28,Action
+121,12,Adventure
+121,14,Fantasy
+121,28,Action
+122,12,Adventure
+122,14,Fantasy
+122,28,Action
+129,16,Animation
+129,10751,Family
+129,14,Fantasy
+155,28,Action
+155,53,Thriller
+155,80,Crime
+161,53,Thriller
+161,80,Crime
+163,53,Thriller
+163,80,Crime
+165,12,Adventure
+165,35,Comedy
+165,878,Science Fiction
+196,12,Adventure
+196,35,Comedy
+196,878,Science Fiction
+217,12,Adventure
+217,28,Action
+218,28,Action
+218,53,Thriller
+218,878,Science Fiction
+238,18,Drama
+238,80,Crime
+240,18,Drama
+240,80,Crime
+242,80,Crime
+242,18,Drama
+242,53,Thriller
+272,18,Drama
+272,80,Crime
+272,28,Action
+274,80,Crime
+274,53,Thriller
+274,18,Drama
+278,18,Drama
+278,80,Crime
+280,28,Action
+280,53,Thriller
+280,878,Science Fiction
+285,12,Adventure
+285,14,Fantasy
+285,28,Action
+296,28,Action
+296,53,Thriller
+296,878,Science Fiction
+298,80,Crime
+298,53,Thriller
+329,12,Adventure
+329,878,Science Fiction
+330,12,Adventure
+330,28,Action
+330,878,Science Fiction
+331,12,Adventure
+331,53,Thriller
+331,878,Science Fiction
+331,28,Action
+348,27,Horror
+348,878,Science Fiction
+393,28,Action
+393,80,Crime
+393,53,Thriller
+424,18,Drama
+424,36,History
+424,10752,War
+425,16,Animation
+425,35,Comedy
+425,10751,Family
+425,12,Adventure
+429,37,Western
+534,28,Action
+534,878,Science Fiction
+534,53,Thriller
+550,18,Drama
+550,53,Thriller
+562,28,Action
+562,53,Thriller
+578,27,Horror
+578,53,Thriller
+578,12,Adventure
+585,16,Animation
+585,35,Comedy
+585,10751,Family
+585,14,Fantasy
+603,28,Action
+603,878,Science Fiction
+604,28,Action
+604,53,Thriller
+604,878,Science Fiction
+605,28,Action
+605,53,Thriller
+605,878,Science Fiction
+620,35,Comedy
+620,14,Fantasy
+641,18,Drama
+671,12,Adventure
+671,14,Fantasy
+672,12,Adventure
+672,14,Fantasy
+673,12,Adventure
+673,14,Fantasy
+674,12,Adventure
+674,14,Fantasy
+675,12,Adventure
+675,14,Fantasy
+679,28,Action
+679,53,Thriller
+679,878,Science Fiction
+680,53,Thriller
+680,80,Crime
+680,35,Comedy
+767,12,Adventure
+767,14,Fantasy
+769,18,Drama
+769,80,Crime
+808,16,Animation
+808,35,Comedy
+808,14,Fantasy
+808,12,Adventure
+808,10751,Family
+809,16,Animation
+809,35,Comedy
+809,10751,Family
+809,14,Fantasy
+809,10749,Romance
+810,14,Fantasy
+810,12,Adventure
+810,16,Animation
+810,35,Comedy
+810,10751,Family
+862,10751,Family
+862,35,Comedy
+862,16,Animation
+862,12,Adventure
+863,16,Animation
+863,35,Comedy
+863,10751,Family
+950,16,Animation
+950,10751,Family
+950,35,Comedy
+950,12,Adventure
+954,12,Adventure
+954,28,Action
+954,53,Thriller
+955,12,Adventure
+955,28,Action
+955,53,Thriller
+956,12,Adventure
+956,28,Action
+956,53,Thriller
+1124,18,Drama
+1124,9648,Mystery
+1124,878,Science Fiction
+1422,18,Drama
+1422,53,Thriller
+1422,80,Crime
+1571,28,Action
+1571,53,Thriller
+1572,28,Action
+1572,53,Thriller
+1573,28,Action
+1573,53,Thriller
+1726,28,Action
+1726,878,Science Fiction
+1726,12,Adventure
+1865,12,Adventure
+1865,28,Action
+1865,14,Fantasy
+1891,12,Adventure
+1891,28,Action
+1891,878,Science Fiction
+1892,12,Adventure
+1892,28,Action
+1892,878,Science Fiction
+1893,12,Adventure
+1893,28,Action
+1893,878,Science Fiction
+1894,12,Adventure
+1894,28,Action
+1894,878,Science Fiction
+1895,12,Adventure
+1895,28,Action
+1895,878,Science Fiction
+2501,28,Action
+2501,9648,Mystery
+2501,53,Thriller
+2502,28,Action
+2502,18,Drama
+2502,53,Thriller
+2503,28,Action
+2503,18,Drama
+2503,9648,Mystery
+2503,53,Thriller
+8077,878,Science Fiction
+8077,28,Action
+8077,27,Horror
+8078,878,Science Fiction
+8078,27,Horror
+8078,28,Action
+8355,16,Animation
+8355,35,Comedy
+8355,10751,Family
+8355,12,Adventure
+8587,16,Animation
+8587,10751,Family
+8587,18,Drama
+9806,28,Action
+9806,12,Adventure
+9806,16,Animation
+9806,10751,Family
+10138,12,Adventure
+10138,28,Action
+10138,878,Science Fiction
+10192,35,Comedy
+10192,12,Adventure
+10192,14,Fantasy
+10192,16,Animation
+10192,10751,Family
+10193,16,Animation
+10193,10751,Family
+10193,35,Comedy
+10681,16,Animation
+10681,10751,Family
+10681,878,Science Fiction
+12444,12,Adventure
+12444,14,Fantasy
+12445,12,Adventure
+12445,14,Fantasy
+24428,878,Science Fiction
+24428,28,Action
+24428,12,Adventure
+27205,28,Action
+27205,878,Science Fiction
+27205,80,Crime
+41513,16,Animation
+41513,10751,Family
+41513,12,Adventure
+41513,35,Comedy
+41513,14,Fantasy
+49026,28,Action
+49026,80,Crime
+49026,53,Thriller
+49051,12,Adventure
+49051,14,Fantasy
+49051,28,Action
+56292,28,Action
+56292,53,Thriller
+56292,12,Adventure
+57158,14,Fantasy
+57158,12,Adventure
+57158,28,Action
+68721,28,Action
+68721,12,Adventure
+68721,878,Science Fiction
+76341,28,Action
+76341,12,Adventure
+76341,878,Science Fiction
+99861,28,Action
+99861,12,Adventure
+99861,878,Science Fiction
+122917,28,Action
+122917,12,Adventure
+122917,14,Fantasy
+157336,12,Adventure
+157336,18,Drama
+157336,878,Science Fiction
+166426,12,Adventure
+166426,28,Action
+166426,14,Fantasy
+177677,28,Action
+177677,12,Adventure
+299534,12,Adventure
+299534,878,Science Fiction
+299534,28,Action
+299536,12,Adventure
+299536,28,Action
+299536,878,Science Fiction
+301528,10751,Family
+301528,35,Comedy
+301528,16,Animation
+301528,12,Adventure

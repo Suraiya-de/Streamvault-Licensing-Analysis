@@ -1,0 +1,119 @@
+timestamp_utc,identifier,event,status,details
+2026-11-19T16:29:13.222571+00:00,tt0468569,imdb_resolution,success,Resolved to TMDb ID 155
+2026-11-19T16:29:14.263721+00:00,155,movie_acquisition,success,Cache hit: False; Title: The Dark Knight; Error: 
+2026-11-19T16:29:14.557899+00:00,49026,movie_acquisition,success,Cache hit: False; Title: The Dark Knight Rises; Error: 
+2026-11-19T16:29:14.696922+00:00,8077,movie_acquisition,success,Cache hit: False; Title: Alien³; Error: 
+2026-11-19T16:29:14.737113+00:00,680,movie_acquisition,success,Cache hit: True; Title: Pulp Fiction; Error: 
+2026-11-19T16:29:14.807909+00:00,165,movie_acquisition,success,Cache hit: False; Title: Back to the Future Part II; Error: 
+2026-11-19T16:29:15.241103+00:00,242,movie_acquisition,success,Cache hit: False; Title: The Godfather Part III; Error: 
+2026-11-19T16:29:15.273415+00:00,58,movie_acquisition,success,Cache hit: False; Title: Pirates of the Caribbean: Dead Man's Chest; Error: 
+2026-11-19T16:29:15.331703+00:00,331,movie_acquisition,success,Cache hit: False; Title: Jurassic Park III; Error: 
+2026-11-19T16:29:15.625652+00:00,10138,movie_acquisition,success,Cache hit: False; Title: Iron Man 2; Error: 
+2026-11-19T16:29:15.848646+00:00,673,movie_acquisition,success,Cache hit: False; Title: Harry Potter and the Prisoner of Azkaban; Error: 
+2026-11-19T16:29:16.390517+00:00,955,movie_acquisition,success,Cache hit: False; Title: Mission: Impossible II; Error: 
+2026-11-19T16:29:16.853573+00:00,8587,movie_acquisition,success,Cache hit: False; Title: The Lion King; Error: 
+2026-11-19T16:29:16.905688+00:00,1573,movie_acquisition,success,Cache hit: False; Title: Die Hard 2; Error: 
+2026-11-19T16:29:17.186442+00:00,769,movie_acquisition,success,Cache hit: False; Title: GoodFellas; Error: 
+2026-11-19T16:29:17.313987+00:00,105,movie_acquisition,success,Cache hit: False; Title: Back to the Future; Error: 
+2026-11-19T16:29:17.569730+00:00,674,movie_acquisition,success,Cache hit: False; Title: Harry Potter and the Goblet of Fire; Error: 
+2026-11-19T16:29:17.627890+00:00,8471293,movie_acquisition,failure,Cache hit: False; Title: ; Error: 404 Client Error: Not Found for url: https://api.themoviedb.org/3/movie/8471293?append_to_response=credits
+2026-11-19T16:29:17.894872+00:00,121,movie_acquisition,success,Cache hit: False; Title: The Lord of the Rings: The Two Towers; Error: 
+2026-11-19T16:29:18.118690+00:00,122917,movie_acquisition,success,Cache hit: False; Title: The Hobbit: The Battle of the Five Armies; Error: 
+2026-11-19T16:29:18.492900+00:00,120,movie_acquisition,success,Cache hit: False; Title: The Lord of the Rings: The Fellowship of the Ring; Error: 
+2026-11-19T16:29:18.710238+00:00,679,movie_acquisition,success,Cache hit: False; Title: Aliens; Error: 
+2026-11-19T16:29:19.399873+00:00,22,movie_acquisition,success,Cache hit: False; Title: Pirates of the Caribbean: The Curse of the Black Pearl; Error: 
+2026-11-19T16:29:19.436083+00:00,1892,movie_acquisition,success,Cache hit: False; Title: Return of the Jedi; Error: 
+2026-11-19T16:29:19.559295+00:00,24,movie_acquisition,success,Cache hit: False; Title: Kill Bill: Vol. 1; Error: 
+2026-11-19T16:29:20.552132+00:00,278,movie_acquisition,success,Cache hit: False; Title: The Shawshank Redemption; Error: 
+2026-11-19T16:29:20.572106+00:00,863,movie_acquisition,success,Cache hit: False; Title: Toy Story 2; Error: 
+2026-11-19T16:29:20.648143+00:00,11,movie_acquisition,success,Cache hit: False; Title: Star Wars; Error: 
+2026-11-19T16:29:21.140541+00:00,299534,movie_acquisition,success,Cache hit: False; Title: Avengers: Endgame; Error: 
+2026-11-19T16:29:21.143615+00:00,1726,movie_acquisition,success,Cache hit: False; Title: Iron Man; Error: 
+2026-11-19T16:29:21.357830+00:00,1572,movie_acquisition,success,Cache hit: False; Title: Die Hard: With a Vengeance; Error: 
+2026-11-19T16:29:21.597347+00:00,24428,movie_acquisition,success,Cache hit: False; Title: The Avengers; Error: 
+2026-11-19T16:29:21.741998+00:00,56292,movie_acquisition,success,Cache hit: False; Title: Mission: Impossible - Ghost Protocol; Error: 
+2026-11-19T16:29:22.017534+00:00,9412887,movie_acquisition,failure,Cache hit: False; Title: ; Error: 404 Client Error: Not Found for url: https://api.themoviedb.org/3/movie/9412887?append_to_response=credits
+2026-11-19T16:29:22.508848+00:00,1893,movie_acquisition,success,Cache hit: False; Title: Star Wars: Episode I - The Phantom Menace; Error: 
+2026-11-19T16:29:22.628484+00:00,810,movie_acquisition,success,Cache hit: False; Title: Shrek the Third; Error: 
+2026-11-19T16:29:22.901548+00:00,122,movie_acquisition,success,Cache hit: False; Title: The Lord of the Rings: The Return of the King; Error: 
+2026-11-19T16:29:23.187530+00:00,68721,movie_acquisition,success,Cache hit: False; Title: Iron Man 3; Error: 
+2026-11-19T16:29:23.249190+00:00,603,movie_acquisition,success,Cache hit: False; Title: The Matrix; Error: 
+2026-11-19T16:29:23.727748+00:00,1422,movie_acquisition,success,Cache hit: False; Title: The Departed; Error: 
+2026-11-19T16:29:24.287271+00:00,27205,movie_acquisition,success,Cache hit: False; Title: Inception; Error: 
+2026-11-19T16:29:24.321236+00:00,161,movie_acquisition,success,Cache hit: False; Title: Ocean's Eleven; Error: 
+2026-11-19T16:29:24.537669+00:00,862,movie_acquisition,success,Cache hit: False; Title: Toy Story; Error: 
+2026-11-19T16:29:24.569379+00:00,9806,movie_acquisition,success,Cache hit: False; Title: The Incredibles; Error: 
+2026-11-19T16:29:24.883336+00:00,12445,movie_acquisition,success,Cache hit: False; Title: Harry Potter and the Deathly Hallows: Part 2; Error: 
+2026-11-19T16:29:25.291696+00:00,217,movie_acquisition,success,Cache hit: False; Title: Indiana Jones and the Kingdom of the Crystal Skull; Error: 
+2026-11-19T16:29:25.550091+00:00,87,movie_acquisition,success,Cache hit: False; Title: Indiana Jones and the Temple of Doom; Error: 
+2026-11-19T16:29:25.835678+00:00,8355,movie_acquisition,success,Cache hit: False; Title: Ice Age: Dawn of the Dinosaurs; Error: 
+2026-11-19T16:29:26.111306+00:00,274,movie_acquisition,success,Cache hit: False; Title: The Silence of the Lambs; Error: 
+2026-11-19T16:29:26.308093+00:00,2502,movie_acquisition,success,Cache hit: False; Title: The Bourne Supremacy; Error: 
+2026-11-19T16:29:26.586958+00:00,562,movie_acquisition,success,Cache hit: False; Title: Die Hard; Error: 
+2026-11-19T16:29:26.586999+00:00,808,movie_acquisition,success,Cache hit: False; Title: Shrek; Error: 
+2026-11-19T16:29:26.820990+00:00,1891,movie_acquisition,success,Cache hit: False; Title: The Empire Strikes Back; Error: 
+2026-11-19T16:29:27.218705+00:00,1124,movie_acquisition,success,Cache hit: False; Title: The Prestige; Error: 
+2026-11-19T16:29:27.533504+00:00,111,movie_acquisition,success,Cache hit: False; Title: Scarface; Error: 
+2026-11-19T16:29:27.754645+00:00,299536,movie_acquisition,success,Cache hit: False; Title: Avengers: Infinity War; Error: 
+2026-11-19T16:29:27.808571+00:00,41513,movie_acquisition,success,Cache hit: False; Title: The Smurfs; Error: 
+2026-11-19T16:29:28.250932+00:00,10681,movie_acquisition,success,Cache hit: False; Title: WALL·E; Error: 
+2026-11-19T16:29:28.548486+00:00,78,movie_acquisition,success,Cache hit: False; Title: Blade Runner; Error: 
+2026-11-19T16:29:29.058283+00:00,641,movie_acquisition,success,Cache hit: False; Title: Requiem for a Dream; Error: 
+2026-11-19T16:29:29.134915+00:00,329,movie_acquisition,success,Cache hit: False; Title: Jurassic Park; Error: 
+2026-11-19T16:29:29.471648+00:00,238,movie_acquisition,success,Cache hit: False; Title: The Godfather; Error: 
+2026-11-19T16:29:29.804933+00:00,301528,movie_acquisition,success,Cache hit: False; Title: Toy Story 4; Error: 
+2026-11-19T16:29:29.843022+00:00,240,movie_acquisition,success,Cache hit: False; Title: The Godfather Part II; Error: 
+2026-11-19T16:29:30.094477+00:00,163,movie_acquisition,success,Cache hit: False; Title: Ocean's Twelve; Error: 
+2026-11-19T16:29:30.178392+00:00,425,movie_acquisition,success,Cache hit: False; Title: Ice Age; Error: 
+2026-11-19T16:29:30.305076+00:00,129,movie_acquisition,success,Cache hit: False; Title: Spirited Away; Error: 
+2026-11-19T16:29:30.544404+00:00,348,movie_acquisition,success,Cache hit: False; Title: Alien; Error: 
+2026-11-19T16:29:31.172547+00:00,8471294,movie_acquisition,failure,Cache hit: False; Title: ; Error: 404 Client Error: Not Found for url: https://api.themoviedb.org/3/movie/8471294?append_to_response=credits
+2026-11-19T16:29:31.331111+00:00,13,movie_acquisition,success,Cache hit: False; Title: Forrest Gump; Error: 
+2026-11-19T16:29:31.623410+00:00,429,movie_acquisition,success,"Cache hit: False; Title: The Good, the Bad and the Ugly; Error: "
+2026-11-19T16:29:31.782891+00:00,85,movie_acquisition,success,Cache hit: False; Title: Raiders of the Lost Ark; Error: 
+2026-11-19T16:29:31.806694+00:00,550,movie_acquisition,success,Cache hit: True; Title: Fight Club; Error: 
+2026-11-19T16:29:32.138703+00:00,12444,movie_acquisition,success,Cache hit: False; Title: Harry Potter and the Deathly Hallows: Part 1; Error: 
+2026-11-19T16:29:32.693675+00:00,956,movie_acquisition,success,Cache hit: False; Title: Mission: Impossible III; Error: 
+2026-11-19T16:29:32.694165+00:00,672,movie_acquisition,success,Cache hit: False; Title: Harry Potter and the Chamber of Secrets; Error: 
+2026-11-19T16:29:32.703521+00:00,605,movie_acquisition,success,Cache hit: False; Title: The Matrix Revolutions; Error: 
+2026-11-19T16:29:32.877751+00:00,1865,movie_acquisition,success,Cache hit: False; Title: Pirates of the Caribbean: On Stranger Tides; Error: 
+2026-11-19T16:29:33.218280+00:00,671,movie_acquisition,success,Cache hit: False; Title: Harry Potter and the Philosopher's Stone; Error: 
+2026-11-19T16:29:33.825672+00:00,77,movie_acquisition,success,Cache hit: False; Title: Memento; Error: 
+2026-11-19T16:29:33.950507+00:00,1571,movie_acquisition,success,Cache hit: False; Title: Live Free or Die Hard; Error: 
+2026-11-19T16:29:34.126928+00:00,809,movie_acquisition,success,Cache hit: False; Title: Shrek 2; Error: 
+2026-11-19T16:29:34.174908+00:00,954,movie_acquisition,success,Cache hit: False; Title: Mission: Impossible; Error: 
+2026-11-19T16:29:34.408765+00:00,950,movie_acquisition,success,Cache hit: False; Title: Ice Age: The Meltdown; Error: 
+2026-11-19T16:29:34.714143+00:00,675,movie_acquisition,success,Cache hit: False; Title: Harry Potter and the Order of the Phoenix; Error: 
+2026-11-19T16:29:34.886475+00:00,767,movie_acquisition,success,Cache hit: False; Title: Harry Potter and the Half-Blood Prince; Error: 
+2026-11-19T16:29:35.426049+00:00,9412888,movie_acquisition,failure,Cache hit: False; Title: ; Error: 404 Client Error: Not Found for url: https://api.themoviedb.org/3/movie/9412888?append_to_response=credits
+2026-11-19T16:29:35.901735+00:00,285,movie_acquisition,success,Cache hit: False; Title: Pirates of the Caribbean: At World's End; Error: 
+2026-11-19T16:29:36.027990+00:00,99861,movie_acquisition,success,Cache hit: False; Title: Avengers: Age of Ultron; Error: 
+2026-11-19T16:29:36.121448+00:00,7733901,movie_acquisition,failure,Cache hit: False; Title: ; Error: 404 Client Error: Not Found for url: https://api.themoviedb.org/3/movie/7733901?append_to_response=credits
+2026-11-19T16:29:36.421351+00:00,578,movie_acquisition,success,Cache hit: False; Title: Jaws; Error: 
+2026-11-19T16:29:37.021527+00:00,10193,movie_acquisition,success,Cache hit: False; Title: Toy Story 3; Error: 
+2026-11-19T16:29:37.458927+00:00,298,movie_acquisition,success,Cache hit: False; Title: Ocean's Thirteen; Error: 
+2026-11-19T16:29:37.596426+00:00,177677,movie_acquisition,success,Cache hit: False; Title: Mission: Impossible - Rogue Nation; Error: 
+2026-11-19T16:29:38.069909+00:00,280,movie_acquisition,success,Cache hit: False; Title: Terminator 2: Judgment Day; Error: 
+2026-11-19T16:29:38.216621+00:00,585,movie_acquisition,success,"Cache hit: False; Title: Monsters, Inc.; Error: "
+2026-11-19T16:29:38.510223+00:00,1894,movie_acquisition,success,Cache hit: False; Title: Star Wars: Episode II - Attack of the Clones; Error: 
+2026-11-19T16:29:38.538104+00:00,57158,movie_acquisition,success,Cache hit: False; Title: The Hobbit: The Desolation of Smaug; Error: 
+2026-11-19T16:29:38.757398+00:00,2503,movie_acquisition,success,Cache hit: False; Title: The Bourne Ultimatum; Error: 
+2026-11-19T16:29:38.993789+00:00,76341,movie_acquisition,success,Cache hit: False; Title: Mad Max: Fury Road; Error: 
+2026-11-19T16:29:39.156042+00:00,89,movie_acquisition,success,Cache hit: False; Title: Indiana Jones and the Last Crusade; Error: 
+2026-11-19T16:29:39.504537+00:00,2501,movie_acquisition,success,Cache hit: False; Title: The Bourne Identity; Error: 
+2026-11-19T16:29:39.835114+00:00,424,movie_acquisition,success,Cache hit: False; Title: Schindler's List; Error: 
+2026-11-19T16:29:40.463196+00:00,196,movie_acquisition,success,Cache hit: False; Title: Back to the Future Part III; Error: 
+2026-11-19T16:29:41.217406+00:00,10192,movie_acquisition,success,Cache hit: False; Title: Shrek Forever After; Error: 
+2026-11-19T16:29:41.248088+00:00,604,movie_acquisition,success,Cache hit: False; Title: The Matrix Reloaded; Error: 
+2026-11-19T16:29:41.503315+00:00,218,movie_acquisition,success,Cache hit: False; Title: The Terminator; Error: 
+2026-11-19T16:29:41.641241+00:00,534,movie_acquisition,success,Cache hit: False; Title: Terminator Salvation; Error: 
+2026-11-19T16:29:41.672550+00:00,393,movie_acquisition,success,Cache hit: False; Title: Kill Bill: Vol. 2; Error: 
+2026-11-19T16:29:42.018155+00:00,330,movie_acquisition,success,Cache hit: False; Title: The Lost World: Jurassic Park; Error: 
+2026-11-19T16:29:42.598262+00:00,272,movie_acquisition,success,Cache hit: False; Title: Batman Begins; Error: 
+2026-11-19T16:29:42.739061+00:00,49051,movie_acquisition,success,Cache hit: False; Title: The Hobbit: An Unexpected Journey; Error: 
+2026-11-19T16:29:43.008470+00:00,166426,movie_acquisition,success,Cache hit: False; Title: Pirates of the Caribbean: Dead Men Tell No Tales; Error: 
+2026-11-19T16:29:43.235530+00:00,1895,movie_acquisition,success,Cache hit: False; Title: Star Wars: Episode III - Revenge of the Sith; Error: 
+2026-11-19T16:29:43.345377+00:00,157336,movie_acquisition,success,Cache hit: False; Title: Interstellar; Error: 
+2026-11-19T16:29:43.662642+00:00,620,movie_acquisition,success,Cache hit: False; Title: Ghostbusters; Error: 
+2026-11-19T16:29:43.997186+00:00,8078,movie_acquisition,success,Cache hit: False; Title: Alien Resurrection; Error: 
+2026-11-19T16:29:44.181356+00:00,296,movie_acquisition,success,Cache hit: False; Title: Terminator 3: Rise of the Machines; Error: 

@@ -15,7 +15,14 @@ venv/
 
 # API response cache
 data/raw/*.json
+data/raw/movie
 
 # Test and tool caches
 .pytest_cache/
 .ruff_cache/
+
+.coverage
+htmlcov/
+.mypy_cache/
+.DS_Store
+Thumbs.db
