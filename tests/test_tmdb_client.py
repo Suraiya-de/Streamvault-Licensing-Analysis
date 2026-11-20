@@ -7,7 +7,13 @@ from src import config
 from src.tmdb_client import save_to_cache, load_from_cache, get_retry_after, request_tmdb
 
 def valid_payload(movie_id=550):
-    return {"id": movie_id, "title": "Test", "credits": {"cast": [], "crew": []}}
+    return {
+        "id": movie_id,
+        "title": "Test",
+        "budget": 100,
+        "revenue": 200,
+        "credits": {"cast": [], "crew": []},
+    }
 
 def test_cache_round_trip_and_id_validation(tmp_project):
     save_to_cache(550, valid_payload())
@@ -76,3 +82,20 @@ def test_rate_limit_without_retry_after_uses_exponential_backoff(monkeypatch):
 
     assert result == {"ok": True}
     assert sleep_delays == [1]
+
+@pytest.mark.parametrize("field,value", [
+    ("budget", -1),
+    ("budget", "unknown"),
+    ("budget", True),
+    ("revenue", -1),
+    ("revenue", "unknown"),
+    ("revenue", True),
+])
+def test_invalid_financial_cache_values_are_ignored(tmp_project, field, value):
+    save_to_cache(550, valid_payload())
+    path = config.MOVIE_CACHE_DIR / "550.json"
+    record = json.loads(path.read_text(encoding="utf-8"))
+    record["data"][field] = value
+    path.write_text(json.dumps(record), encoding="utf-8")
+
+    assert load_from_cache(550) is None

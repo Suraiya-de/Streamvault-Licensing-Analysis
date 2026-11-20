@@ -66,7 +66,13 @@ def load_from_cache(movie_id):
         fetched_at = datetime.fromisoformat(record["fetched_at"])
         data = record["data"]
         if fetched_at.utcoffset() is None or not isinstance(data, dict) or data.get("id") != int(movie_id):
-            return None
+                return None
+
+        for field in ("budget", "revenue"):
+            value = data.get(field)
+            if isinstance(value, bool) or not isinstance(value, int) or value < 0:
+                return None
+
         credits = data.get("credits")
         if not isinstance(credits, dict) or not isinstance(credits.get("cast"), list) or not isinstance(credits.get("crew"), list):
             return None
