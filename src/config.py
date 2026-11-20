@@ -17,5 +17,8 @@ REQUEST_INTERVAL_SECONDS = 0.25
 RETRYABLE_STATUS_CODES = {500, 502, 503, 504}
 REFRESH_CACHE = False
 
-for directory in (RAW_DIR, PROCESSED_DIR, MOVIE_CACHE_DIR):
-    directory.mkdir(parents=True, exist_ok=True)
+
+def ensure_data_directories():
+    """Create the project data directories when setup is explicitly requested."""
+    for directory in (RAW_DIR, PROCESSED_DIR, MOVIE_CACHE_DIR):
+        directory.mkdir(parents=True, exist_ok=True)
