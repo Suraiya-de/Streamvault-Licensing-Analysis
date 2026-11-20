@@ -1,4 +1,4 @@
-# StreamVault Licensing Analysis
+﻿# StreamVault Licensing Analysis
 
 ## Project Overview
 
@@ -91,3 +91,49 @@ StreamVault_Licensing_Analysis/
 |-- .gitignore
 |-- requirements.txt
 `-- README.md
+
+
+## Getting Started
+
+### Requirements
+
+- Python 3
+- Git
+- A TMDb API Read Access Token for live data acquisition
+- A compatible notebook environment
+
+### 1. Clone the repository
+
+```powershell
+git clone https://github.com/Suraiya-de/Streamvault-Licensing-Analysis.git
+cd Streamvault-Licensing-Analysis
+
+```
+
+### 2. Create and activate a virtual environment
+
+```powershell
+py -m venv .venv
+.\.venv\Scripts\Activate.ps1
+```
+
+### 3. Install dependencies
+
+```powershell
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+```
+
+### 4. Configure TMDb authentication
+
+```powershell
+Copy-Item .env.example .env
+```
+
+Open `.env` and add your TMDb Read Access Token:
+
+```text
+TMDB_API_TOKEN=your_tmdb_read_access_token_here
+```
+
+Never commit `.env` or expose your API token. The `.env.example` file contains only a placeholder.
