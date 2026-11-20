@@ -8,7 +8,7 @@ The project uses movie metadata and credits from [The Movie Database (TMDb)](htt
 
 **Project deadline:** 18 February 2027
 
-**Analysis status:** In progress. No final licensing recommendation has been made yet.
+**Analysis status:** Completed analysis with documented assumptions, limitations and recommendations.
 
 ## Repository Structure
 
@@ -271,3 +271,16 @@ The shortlist is intended to guide further rights and commercial due diligence. 
 - `data/processed/lead_actor_performance.csv` — lead-actor performance results.
 - `reports/client_memo.md` — client-facing recommendation.
 - `reports/decision_notes.md` — methodology, assumptions, limitations and improvement plan.
+
+
+## Configuration and Tests
+
+Reusable project settings are maintained in `src/config.py`. Acquisition helpers, ID validation and licensing calculations are maintained in `src/tmdb_client.py`, `src/validation.py` and `src/analysis.py`; notebooks orchestrate investigation and execution.
+
+Run the automated tests from the repository root:
+
+```powershell
+python -m pytest -q
+```
+
+The tests use small synthetic examples and mocked HTTP responses; they do not call the live TMDb API.
