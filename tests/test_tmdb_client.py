@@ -51,3 +51,28 @@ def test_request_does_not_retry_not_found(monkeypatch):
     with pytest.raises(requests.HTTPError):
         request_tmdb("https://example.test", token="test")
     assert get.call_count == 1
+
+def test_rate_limit_without_retry_after_uses_exponential_backoff(monkeypatch):
+    first = Mock(status_code=429, headers={})
+    second = Mock(status_code=200)
+    second.json.return_value = {"ok": True}
+
+    sleep_delays = []
+
+    monkeypatch.setattr(
+        "src.tmdb_client.wait_for_request_slot",
+        lambda: None,
+    )
+    monkeypatch.setattr(
+        "src.tmdb_client.time.sleep",
+        lambda delay: sleep_delays.append(delay),
+    )
+    monkeypatch.setattr(
+        "src.tmdb_client.requests.get",
+        Mock(side_effect=[first, second]),
+    )
+
+    result = request_tmdb("https://example.test", token="test")
+
+    assert result == {"ok": True}
+    assert sleep_delays == [1]

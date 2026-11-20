@@ -110,6 +110,8 @@ def request_tmdb(url, params=None, token=None):
             if response.status_code == 429 or response.status_code in config.RETRYABLE_STATUS_CODES:
                 if attempt == config.MAX_RETRIES:
                     response.raise_for_status()
+                # Request spacing is enforced separately by wait_for_request_slot().
+                # This is additional exponential backoff when Retry-After is unavailable.
                 wait = get_retry_after(response) if response.status_code == 429 else None
                 time.sleep(wait if wait is not None else 2 ** attempt)
                 continue
