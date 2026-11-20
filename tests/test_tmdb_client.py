@@ -19,6 +19,16 @@ def test_corrupt_cache_is_ignored(tmp_project):
     (config.MOVIE_CACHE_DIR / "550.json").write_text("{broken", encoding="utf-8")
     assert load_from_cache(550) is None
 
+def test_failed_cache_write_cleans_up_temp_file(tmp_project):
+    payload = valid_payload()
+    payload["invalid"] = object()
+
+    with pytest.raises(TypeError):
+        save_to_cache(550, payload)
+
+    assert not (config.MOVIE_CACHE_DIR / "550.json").exists()
+    assert list(config.MOVIE_CACHE_DIR.glob("550.*.tmp")) == []
+
 def test_retry_after_numeric_header():
     response = Mock(headers={"Retry-After": "3"})
     assert get_retry_after(response) == 3.0

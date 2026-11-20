@@ -1,6 +1,7 @@
 """TMDb HTTP, retry and local-cache helpers."""
 import json
 import os
+import tempfile
 import threading
 import time
 from datetime import datetime, timezone
@@ -28,12 +29,32 @@ def cache_path(movie_id):
 
 def save_to_cache(movie_id, payload):
     config.MOVIE_CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    record = {"fetched_at": datetime.now(timezone.utc).isoformat(), "data": payload}
+
+    record = {
+        "fetched_at": datetime.now(timezone.utc).isoformat(),
+        "data": payload,
+    }
+
     final_path = cache_path(movie_id)
-    temp_path = final_path.with_suffix(".tmp")
-    with temp_path.open("w", encoding="utf-8") as handle:
-        json.dump(record, handle, ensure_ascii=False, indent=2)
-    temp_path.replace(final_path)
+    temp_path = None
+
+    try:
+        with tempfile.NamedTemporaryFile(
+            mode="w",
+            encoding="utf-8",
+            dir=config.MOVIE_CACHE_DIR,
+            prefix=f"{final_path.stem}.",
+            suffix=".tmp",
+            delete=False,
+        ) as handle:
+            temp_path = Path(handle.name)
+            json.dump(record, handle, ensure_ascii=False, indent=2)
+
+        temp_path.replace(final_path)
+
+    finally:
+        if temp_path is not None and temp_path.exists():
+            temp_path.unlink()
 
 def load_from_cache(movie_id):
     path = cache_path(movie_id)
