@@ -66,6 +66,7 @@ StreamVault_Licensing_Analysis/
 |
 |-- docs/
 |   |-- adr/
+|   |   `-- 0001-explicit-data-directory-setup.md
 |   |-- data_contract.md
 |   |-- findings.md
 |   `-- questions.md
@@ -87,10 +88,16 @@ StreamVault_Licensing_Analysis/
 |   `-- validation.py
 |
 |-- tests/
+|   |-- conftest.py
+|   |-- test_analysis.py
+|   |-- test_tmdb_client.py
+|   `-- test_validation.py
+|
 |-- .env.example
 |-- .gitignore
 |-- requirements.txt
 `-- README.md
+
 
 
 ## Getting Started

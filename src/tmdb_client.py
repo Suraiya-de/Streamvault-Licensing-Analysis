@@ -1,6 +1,7 @@
 """TMDb HTTP, retry and local-cache helpers."""
 import json
 import os
+import tempfile
 import threading
 import time
 from datetime import datetime, timezone
@@ -28,12 +29,32 @@ def cache_path(movie_id):
 
 def save_to_cache(movie_id, payload):
     config.MOVIE_CACHE_DIR.mkdir(parents=True, exist_ok=True)
-    record = {"fetched_at": datetime.now(timezone.utc).isoformat(), "data": payload}
+
+    record = {
+        "fetched_at": datetime.now(timezone.utc).isoformat(),
+        "data": payload,
+    }
+
     final_path = cache_path(movie_id)
-    temp_path = final_path.with_suffix(".tmp")
-    with temp_path.open("w", encoding="utf-8") as handle:
-        json.dump(record, handle, ensure_ascii=False, indent=2)
-    temp_path.replace(final_path)
+    temp_path = None
+
+    try:
+        with tempfile.NamedTemporaryFile(
+            mode="w",
+            encoding="utf-8",
+            dir=config.MOVIE_CACHE_DIR,
+            prefix=f"{final_path.stem}.",
+            suffix=".tmp",
+            delete=False,
+        ) as handle:
+            temp_path = Path(handle.name)
+            json.dump(record, handle, ensure_ascii=False, indent=2)
+
+        temp_path.replace(final_path)
+
+    finally:
+        if temp_path is not None and temp_path.exists():
+            temp_path.unlink()
 
 def load_from_cache(movie_id):
     path = cache_path(movie_id)
@@ -45,7 +66,13 @@ def load_from_cache(movie_id):
         fetched_at = datetime.fromisoformat(record["fetched_at"])
         data = record["data"]
         if fetched_at.utcoffset() is None or not isinstance(data, dict) or data.get("id") != int(movie_id):
-            return None
+                return None
+
+        for field in ("budget", "revenue"):
+            value = data.get(field)
+            if isinstance(value, bool) or not isinstance(value, int) or value < 0:
+                return None
+
         credits = data.get("credits")
         if not isinstance(credits, dict) or not isinstance(credits.get("cast"), list) or not isinstance(credits.get("crew"), list):
             return None
@@ -89,6 +116,8 @@ def request_tmdb(url, params=None, token=None):
             if response.status_code == 429 or response.status_code in config.RETRYABLE_STATUS_CODES:
                 if attempt == config.MAX_RETRIES:
                     response.raise_for_status()
+                # Request spacing is enforced separately by wait_for_request_slot().
+                # This is additional exponential backoff when Retry-After is unavailable.
                 wait = get_retry_after(response) if response.status_code == 429 else None
                 time.sleep(wait if wait is not None else 2 ** attempt)
                 continue
